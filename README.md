@@ -1,5 +1,6 @@
 # grass-valley
 How a small town changed television
+
 Elevator pitch A: There's a small town in northern California, and if you work in the technical or production areas of the television industry anywhere in the world, you know the name of the town. You probably wouldn't know it as a place, but as a vendor of high end television production equipment. The name of that town is Grass Valley.
 
 Elevator pitch B: There's a company headquartered in Montreal Canada that has a few thousand employees, with facilities around the globe, that took the name of a small town in northern California. The name of that company is Grass Valley.
@@ -17,3 +18,5 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 So you get access to the body of work with a few caveats.
 Second, you can help make sure that the story is accurate and complete.
 Thirdly, if any of your input ends up in any final “product” I will see that you get a copy of said product at whatever the cost of production and shipping amounts to. Better than wholesale.
+
+Finally, please realize that nothing has been edited. Grammar spelling (not so much), even sentence structure is raw. I’m sure there are a number of non-sequitur passages. That is not to say that any editing help would be greatly appreciated!
