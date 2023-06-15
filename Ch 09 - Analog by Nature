@@ -1,0 +1,63 @@
+<h1>Chapter 9 - Analog by Nature</h1>
+<h2>Early Engineering Prowess</h2>
+https://www.lomaricatv.com/preview/chapters/graphics/solid state.jpg
+
+By the time Tektronix acquired them, the Grass Valley Group was known for their engineering prowess. They embraced solid state technology before most of their competitors did. The Group soon made a solid brand for itself. While it did not invent the video switcher it greatly advanced its evolution. By the mid-70s the company was into its second generation of video switchers with the 1600 and had a fairly substantial line of modular products.
+
+While the Group would often end up with self-inflected black eyes, they were known for making things right. In fact, as we will see it came to be expected that when new products were introduced, they would often be capable of only 80-90% of what they were promised to be able to do. But the Group had a reputation for doing what was needed to be done to make things right. Often the Groups support was such that it became a recruiting tool for attracting new employees.
+
+https://www.lomaricatv.com/preview/chapters/graphics/1600 for a lefty.jpg
+Here is a 2nd generation Grass Valley 1600 video production switcher. Usually the three fader (T-bar) handles are on the right side. But Grass Valley would go to great lengths to customize this control panel for a lefty.
+
+Jay Kuca joined the Group in 1978. He had worked on the customer side of the television business for about 12 years. His first job was with a UHF television station in Dayton, Ohio. It was the only non-union shop in town, so he got to do a bunch of different jobs there. Once, when he was assigned to do equipment maintenance, he was asked to look into a problem with a Grass Valley 900 series video processing amp. The unit had already been taken out of service, so he put it on the bench and fired it up and confirmed the problem. As he looked at the module to inspect it for any visible issues (burned components, loose connections, etc.), he was fascinated by the manufacturer's clever use of what appeared to be standard Veroboards (which we looked at earlier in this book), and was also impressed by the clean, logical, component layout. But what really intrigued him was the name of the manufacturer and the "twin peaks" logo.
+
+Jay decided that he needed to learn more about GVG, so he gave them a call. A nice lady answered the phone, and when he told her why he was calling, she immediately transferred his call to a service technician. When Jay told him why he was calling and described the problem he was having, without hesitation, the Group tech said, "Oh yes, we're aware of that problem and we have a fix for it. You need an updated module, and I'll send it to you today. When you receive it, install it in the frame, and ship the old module back to us." He gave Jay the company's shipping account number and told him to send the old module back on their dime. That incident occurred 40+ years ago, and he still remembers it as if it occurred yesterday. Talk about the power of a positive first impression.
+
+Eventually Bob Lynch at the Group brought Jay out for a job interview. GVG always wanted to have the spouse come along also, because it was a good recruiting tool, but his wife was pregnant at the time and could not make the trip. He went to work for the Group in March of 1978. The company allowed him to live in the guest house, which was up by what was the Hare's house, for a couple of weeks. The house he stayed in burned down in the 49er fires. Jay stayed with the Group for 18 years. He eventually ended up at NVISION, the only Grass Valley Group spin off, as we will see later.
+
+Brands are hard to build and even harder to span across generations. Early on the Group built their brand by having the right mantra at the time, build what customers say they want, when the entrenched players were not. This happened first with modules, then switchers, and soon, as we will see, routers.
+
+The Group at this time nailed what marketers say you need to build a brand. The right product at the right time targeted to the right users who want that one thing, produced in the right way by the right people, all done with consistency. The group, while having many launch problems as we will see, managed to check the consistency box by always making good when they had to.
+
+It helped the Group that their competition had set the bar so low. RCA, had great engineering and had driven broadcasting technology for almost 50 years, was across just about every major milestone into the 60s. They had become too bureaucratic to be nimble by the time the Group entered the game. As we have seen already the Group could go from concept to a physical product, sometimes in a couple weeks, whereas RCA, while still with a few milestones left in their future, took years to produce them. In the 60s the computer industry was referred to as IBM and the Seven dwarfs with RCA being one of those dwarfs. But in the television equipment realm RCA was the heavy into the 70s.
+
+You can do everything right and still fail because customers do not want to be associated with products of their parent's generation. Morgan Stanley could make the indisputably best robot advisor in the world and millennial's would still prefer Betterment. That is how Charles Schwab blossomed in the 1980s and 1990s; with a brand baby boomers felt was theirs, not their parent's. Often management wants to cash in brand equity for short-term gain, and that had happened a few times with the Group. Brands are hard to build, and once lost it is nearly impossible to regain, because of the odds of building a successful brand in the first place are so low. So far, even with a brand name which will no longer have a physical location anchored to its namesake, mostly due to all the mergers and spin-offs the Group has been through, the company has pulled this off at least until now. We will see why.
+
+<h3>1600</h3>
+https://www.lomaricatv.com/preview/chapters/graphics/1600.jpg
+Tektronix brought the Group just as their second generation 1600 production switcher was being introduced. It was a major leap forward in their switcher line up. The 1600 was a totally new design. It had more of everything; keys, wipe patterns, better chroma keying. It also had more options and could be ordered with three effects banks, unlike the 1400's two.
+
+https://www.lomaricatv.com/preview/chapters/graphics/switcher cp buttons.jpg
+
+The one thing that people who operate the Group's switchers always talked about was the feel of the push buttons. They liked the tactile feeling of the button push. A lot of this came from the design of the switch. The Group used switches where the button that the operator pushed did not directly force a contact closure, but instead magnets on the shaft of the button were forced near a magnetic "reed" switch when the button was pushed down. The magnets forced the switch to close. That removed any change in downward force required to force a contact closure. That approach started with the 1400 and continued forward. Originally the group used switches from Allen-Bradley. Over a number of generations of video switchers they moved to other venders, and gradually improved the ergonomics and reliability of the switches.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch3-42 magnetic-reed-switch.jpg
+Reed Switch based push-button
+
+As was with a number of flagship product roll outs to follow, the 1600 had birthing problems. After many 1600s were shipped and installed engineer Jerry Taylor came up with a new design for the mixing amp that resides in every mix/effects bank in the switcher. This amp is what literally mixes video from two video signals. It is what performs a dissolve between sources. Taylor used feedback that made the amp much more linear. It made for a much better dissolve between sources. The Group offered customers that had the original mixer in their switcher's replacements for free. The only problem the customers faced is that it would take the switcher out of service for the time required. Generally it took one day per mix/effects bank. The switcher could have up to three m/e banks. About 100 customers took them up on the offer.
+
+https://www.lomaricatv.com/preview/chapters/graphics/t-bar.jpg
+Stand-alone example of a fader bar presented to Dr. Hare
+
+Another example of exemplary Group support was when ABC had a fire at their field shop in Lodi, New Jersey. Back then, unlike now, the networks owned a number of production trucks themselves. The networks generally used their own trucks back then to do their marquee events. Most trucks were saved by the fire department by finding keys and driving the trailers outside. The Group sent a couple support techs back to see what could be done for all the smoke damage to their 1600s, along with other Grass Valley gear, and even competitors' equipment. Remembering that the Group used a dishwasher in building 4 at the time to clean the flux from solder off the boards during manufacturing, they decided to buy a dishwasher to clear the boards of smoke damage, which worked. They also got and erected a sheet metal shed that became their "hot house" to dry the boards.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch3-15 abc phase 7.JPG
+ABC Remote Production Units
+
+Once the teething pains of the 1600 switcher settled down, the 1600 was a solid product that customers liked and put it to work doing all gamut of video productions, from small town newscasts to the Olympics. It pushed the switcher market forward in capability. The competitors were now definitely playing catch up. A switcher, even back then, was far more capable than most users would ever need. Most TDs "flew" the switcher like it was a small private plane, not the sport acrobatic craft it was capable of being. By 1982 there were 2000 1600s in service.
+
+https://www.lomaricatv.com/preview/chapters/graphics/emem 1.jpg
+https://www.lomaricatv.com/preview/chapters/graphics/emem 2.jpg
+Emem
+
+Some users saw what the group had done with the 1600 and wanted more. ABC wanted more features for their coverage of the upcoming 1980 Olympics. Towards the end of 1976 plans to deliver the next generation of production switcher were starting to gel. A big part of the new feature set was being developed by an engineer who had started with the company right after the 1400 was introduced. He had worked on the 1600 and was eager to push the boundaries of what the next switcher could do. The engineer's name is Bruce Rainer.
+
+Above, Emem control panel. Look at the control panels in the prior section. There are a lot of buttons and control knobs on those panels, and the new switcher on the horizon was only going to have many more. Even with the 1600, with the right options, it could conceivably combine five effects at once. Those effects could be any combination of keys and wipes. Each one had to be set up individually. Each effect set up can be layered onto another effect represented by another fader bar. That essentially means that between all the possible variations from one to the next is infinite. A half hour newscast might use 15 or 20 different effect combinations, some requiring all the mix/effects banks. That is a lot of button pushes, and knob turns in a limited amount of time. During a live show or sports program, there was no way to program the effects quickly.
+
+Rayner led the effort to find a way to store and easily recall complex effects. This came to be known as Effects Memory or "Emem." It took a while for Bruce to realize the best approach. He was driving one day and pushed the button on his car radio to change stations and realized the answer was right in front of him.
+
+Rayner started in 1969 as Group employee number 38. He had been working at GE, in Syracuse. Bill Jorden recruited him. Rayner worked for the Group for 24 years. He was involved with sustaining engineering on the 1400, and development of the 1600, before developing Emem.
+
+Because of his efforts Bruce won a technical excellence award from Tektronix in 1982. Emem was an integral part of the upcoming 300 switcher, and that development resulted in the Group's first video switcher patent in 1984, and an Emmy in 1990. Eventually he developed Emem interfaces for outside editing and effects systems.
+
+Emem
