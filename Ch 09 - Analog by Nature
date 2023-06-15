@@ -131,7 +131,6 @@ After Dayton had hybrids in production the Group gave him the title of Director 
 
 As the vertical integration efforts were starting to be dismantled at Bitney Springs, plus the fact that IC technology had advanced, especially surface mount which the Group was quickly adopting, hybrid manufacturing was moved back to the Oscilloscope group at Tektronix in 1990. Hybrids might have literally saved the company, but by then they were old news.
 
-
 As mentioned in the latter half of the 70s the 300 switcher was being discussed. But almost as soon as that process got underway, the original building, building one, burnt down. One of the things lost was major, all the engineering documentation. Most of the activity that was in building one was moved up to the A-Frame house that the Hare's had lived in. The company had to reverse engineer all of their products to re-create schematics and other engineering documentation. That set the new 300 project back by almost a year. The one good thing back then was that all products had technical manuals with schematics. So the Group mainly had to track down the manuals for all their present and past products. But other engineering documentation, mainly mechanical specs, and processes, had to be re-created.
 
 At this point in time the video switcher had become an intricate system. It needed capability built into it that most will never use, except for a few "power users." You need the "first adopters," the ones who will ferret out all that is possible with the product, who will then lend cachet to it. The video switcher is often the marquee piece of equipment in a video production center. TDs mark their reputation on what they are able to do with the switcher they are presented with. Some of the very best over the years have refused to work with competitive switchers. The Group had set the standard that TDs pointed to.
@@ -188,7 +187,7 @@ In electronics, capacitors should run at 30% of electrical current capacity, and
 
 The 300 was first shown at the 1979 NAB held that year in Houston. While it had the new 300 control panel on display it was a dog and pony show. No one, except a designated few were allowed touch the switcher. While the panel was connected to a 300 frame so that the panel would light up, and a vetted operator would appear to be using it, in reality there was someone behind the curtain running a 1600 switcher. Many thought this was the dumbest thing the group could have done. Why announce a non-working product that will obsolete your currently well selling product?
 
-*****This paragraph is in dispute:*****
+*****This paragraph is in dispute:*******************************************************************
 There was a fair amount of carnage before the next NAB. A few months before the 80 NAB then Group President Dave Friedley called Mike Patton and Merv Graham, the then current lead engineers, into his office. He told them that he wanted the 300 done by that NAB, and also running for the Olympics. They said, "no way." Friedley fired them. That put a real chill into engineering, as the two engineers that knew switchers really well were now gone. At the time the only thing they had for the 300 was a prototype front panel, with no working software yet, and a prototype of the program/pre-set effects bus. There were no effects, no wipe patterns. At that moment the switcher could do what switchers from the late 40s and early 50s could do, cut between sources.
 
 Leon Stanger was put in charge of the 300. He had been in charge of modular products. Leon was a great organizer. He was also considered an excellent manager, and as important, a good judge of character. Leon picked up the pieces, put the team back together and trudged on. The deck was stacked against him. The concept of unlimited re-entry for the 3 mix effects banks was something that was not in any drawing or descriptions or block diagrams. As a result, it was forgotten, until ABC began to test drive the 300 before the Olympics, as ABC had been pushing for the feature. This was a major "oh shit" moment, it was not at all clear how to actually do it, let alone how to fix it.
@@ -199,3 +198,203 @@ and Sally brought him meals. It got done and was shipped. But never used. It sat
 
 The Olympics 300 was closer to the 1600 in capability than what the 300 eventually came to do. But Julius Barnathan, ABC's V.P. of Engineering, wanted it there for the publicity.
 
+Not all the problems with the Olympic 300 were from design or manufacturing. The ABC TD on the 300 at the Olympics was a cigar smoker. When the 300 came back from the Olympics, the space next to the closest fader bar to him was just big enough for a cigar. There were ashes throughout the panel. They got it cleaned up and sent back to ABC.
+
+The first one hundred 300s had a dozen ECOs (Engineering Change Orders) to make them work at the same level as the previous 1600. The first 100 switchers eventually got replaced as they couldn't be maintained, as they didn't have a number of the refinements needed to be a true 300. The first 300 switcher that went to Lake Placid didn't have hybrids. Hybrids did not start going into 300s until 1981. Over 1500 custom hybrids were ordered to replace parts on shipped 300s. In 1982 over 100,000 hybrids were produced. Even before they ended up fixing the 300, modular was using them.
+
+At the 1981 NAB customers were irate. Jim Michener remembers that NAB. Jim was Leon Stanger's replacement in charge of Modular, while not involved in the 300, he had a Grass Valley badge and was thus fair game. Bob Cobler, VP of Marketing, bravely told Jim to direct the irate customers to him. Bob would acknowledge the problems and calmly explain that the Group did have a plan to upgrade all units in the field. He gave them his phone number and promised to keep them informed when the Group would come out and make good on the advertised 300 feature set.
+
+About three months after NAB, the roll out was started. Cobler would later say that the Grass Valley Group shot itself in the foot, and then sewed it back on. This seldom happened in the broadcast vendor field. The Group took pride, not in the angst that their customers went through, but the fact that they made it right. Like the 300, which bridged a number of technological hurdles, the first breakthrough color camera, the Norelco PC-60 camera, had a number of issues with stability early on, that were later fixed. Interestingly the Norelco camera line is now in the Grass Valley Company's linage.
+
+https://www.lomaricatv.com/preview/chapters/graphics/dallas nab.jpg
+Redemption in Dalla
+
+So by the next NAB, the Group were the toast of the broadcast industry. They actually stood behind their products. This really put GVG on the map when it came to customer loyalty. That next year the company did brag about the now working features of the 300 by putting out a "You can do magic" video. The Group had 70 people that year representing it in the booth.
+
+**************************************************************
+Who designed and got the 300 working?
+When did it reach 1600 functionality?
+When did it become the advertised 300?
+**************************************************************
+
+While the 300 damn near killed the company, and initially lost a lot of money early on, because the first hundred 300s all had to be replaced, it became a solid seller and sold into the 90s when digital production switchers were finally being churned out by the Group. By 1993 when 300 sales were finally winding down it had brought $200 million into the company.
+
+https://www.lomaricatv.com/preview/chapters/graphics/TV CITY STUDIO 33 SWR.jpg
+Well used 300 installed at CBS Television City in the 90s
+
+Many pieces of equipment found in production settings, especially productions done on location, are operated by freelance people. Video switchers are no exception. Often the vast majority of many vary large productions are freelancers. They are only invited back to work on other productions if they do well. Like many settings, it is a "you're only as good as your last performance." A freelancer burned on gear that is not customarily used, or not intuitive, or reliable, will, for their own sake, tend to shy away from productions where the dreaded gear is used. Human nature is to usually blame the gear and not the person. That reputation, once attached, is hard to remove.
+
+This is very much the case with switchers. From a pure operational standpoint video switchers and audio mixers are the most complex equipment an operator, A1 (Lead audio) for mixers and TD in the case of switchers, will face. Screw ups on the parts of those two are always front and center for all to see and hear. They both want to be comfortable with the "workflow" those devices present to them. Once you entrench yourself, especially switchers, it's easy to stay as the vendor of choice. That is as long as the new features that come along in later equipment do not change older features that the user is accustomed to too much.
+
+To use another airline example; Southwest Airlines flies nothing but Boeing 737s. Even with the recent problems with the 737Max, and the rising success of Airbus airliners, try to convince Southwest that maybe they should fly a few A321s.
+
+As we will see in a bit, the Group lost that realization at one point, and the allowed a very formidable competitor to arise.
+
+<h3>More Switchers</h3>
+https://www.lomaricatv.com/preview/chapters/graphics/200.jpg
+https://www.lomaricatv.com/preview/chapters/graphics/110.jpg
+The company continued to produce video production switchers for many divergent uses. The one on the left, a scaled down 300, known as the 200, was aimed at post production. The one on the right, the 100, was for small productions.
+
+Switchers have stayed central to the Groups psyche. Once the 300 issues where finally ironed out, they designed a scaled down version of the 300, the 1680, which was aimed at smaller market stations and production facilities, which also became very popular. In capability it sat well above the 1600, but a ways below the 300, but importantly it also had Emem built in. Also in 1982 the group launched the 100. The 100 became so successful that 3000 were shipped in the first 6 years.
+
+In 1987 the Group launched its first switcher geared towards the post-production and editing market. As we will see editing became an important part of the Groups business. But other technological forces were at work, and as we will see also the company did not always react to them as quickly or deftly as it should.
+
+Up until then the Group had only dealt with composite video. That is video that has all the black & white, or monochrome as it is also called, and color or chroma information all in a single signal. Often scenes that had tweed clothing, or other patterns, would start to produce strange color patterns. While over the years separating out chroma from monochrome had gotten better, especially with the advent of the comb filter, people in the industry were looking at other ways to eliminate the problem altogether. Component video was starting to make inroads. Analog component video used two cables originally, one for the monochrome and a second for the chroma. Another approach used three cables, and simply carried the red, green, and blue signals separately and never combined them until necessary.
+
+Almost as soon as component became the rage, another, radical concept was rapidly arriving on the scene, digital. We will look at that phenomenon in a later chapter.
+
+In 1985 the Group produced its first switcher that worked with component video. But it was slow to embrace digital signals. While it did start building switchers that processed video digitally internally by 1988, the world did not see a switcher from the Group that took digital video in and fed it back out until 1991. There were two digital formats at the time, and one was simply the same as the original analog composite video format, just digitized. Of course that is the one the Group went with as even then the company had not totally bought into the fact that the world was going digital.
+
+One could argue that the Group had a right to be skeptical because of another concurring development, pushed by a company that had been an ally, and was now becoming a competitor, Sony. Sony was pushing for high Definition (HD) video. At the time early HD efforts were all analog. The technology to do HD in digital was not anywhere near ready at that point.
+
+Later we will see how the Group pushed Sony from ally to competitor.
+
+<h2>Modular</h2>
+https://www.lomaricatv.com/preview/chapters/graphics/modular building.jpg
+Soon the Group had grown to a point where it was decided that it would be split up into divisions. The test case was the modular products, which became the Modular Products Division. It was decided to locate it away from the Bitney Springs facility in this building at the Grass Valley airport.
+
+https://www.lomaricatv.com/preview/chapters/graphics/early%20gvg%20boards.JPG
+
+Modular products were the first video products that the Group ever offered. It gave them enough mass and momentum to get into switchers and later, routers. But while not sexy, it is with its Modular Products Division (MPD) that the company made its money. Modular products are what allow items, such as production switchers, to be connected together into a system. Modular also helped keep the company in front of the customers, at least the technical crowd. As facilities evolved and grew, stations where constantly in need of those products. Whereas a high dollar switcher or router were items that were purchased every 10 years or so. This gave the sales rep more of a reason to stay in touch with the customers.
+
+Plus it sometimes gives customers reason to contact the company. In 1981 when Princess Di and Prince Charles were to be wed, the BBC was on strike. In the UK, the BBC is not permitted to go on strike, so what they did instead was to turn off the color burst on their outgoing TV signals. That is a signal in the video that allows the receiver to recover the color information in the video signal. This would make all programming appear in black and white. However, they left the subcarrier information in the actual video. The modular group was asked by one of the networks if there was a way they could regenerate subcarrier based on sync alone in a PAL video signal, which is what the BBC used. Jim Michener added a "sub carrier phase" adjust knob and a switch to add the subcarrier burst back in to a "proc amp."
+
+The network stuck the proc amp on the satellite feed from the UK before the PAL to NTSC converter and everyone in the USA were able to watch the wedding in color, while the UK folks saw it in Black and White. Len Dole, the company's sales manager was not happy since the BBC was not happy. Len was a transplanted Brit and had lots of ties to the BBC. It was Len himself who made it possible for the group to do this, as he was the one that insisted that the Group make more types of PAL equipment. A PAL proc amp, released shortly before the event, made this possible.
+
+************************************************************************
+Group sales force did not want to sell MPD. Sakai was dumping product through Midwest Corp out of Edgewood Kentucky. They get in trouble and stop selling. What was the fix? MPD sales in 86 was 12.6M, 87 14M, 88 17.4M. Did not seem to hurt the company.
+************************************************************************
+
+As we will see in a later chapter that in a very unwise strategic move one of the Group Presidents in the 90s decided to stop funding research for the division, and let it die off. It did not take long for the company to realize it was a bad move and to reverse it. That President did not last long.
+
+While the Group quit selling 900 series modules in the 70s, you found them still in racks at the turn of the century. The 7700 series that replaced the 900, and then 8500 series introduced in 85 were common until about 10 years ago. In 1998 the first HD series modules, the MAX 9000, were introduced. The company sells modules to this day. But now they are a mix of products developed by the Group itself, and ones developed by others that were competitors, but now also bear the Grass Valley name.
+
+<h2>Wavelink</h2>
+The first Olympic Games televised in the U.S. were the 1960 Winter Olympics from Squaw Valley (Lake Tahoe, not far from Grass Valley) and the Summer Olympics in Rome. These were done by CBS. CBS paid almost nothing for the rights at the Tahoe venue and paid only half a million for the games in Rome. In the Winter games, during a men's slalom event, CBS allowed officials to review tape of one of the runs, to determine if a skier had missed a gate. This gave CBS the idea for instant replay, which was debuted in anything resembling its present form in 1965.
+
+As we saw earlier, was that ABC, as the third network in a three network race back in the early 60s, had aggressively gone after sports as a way to delineate themselves. As we saw they couldn't outspend the other two, but they innovated, and when the chance to get the 1964 Innsbruck Winter Olympics presented itself, for over a half million dollars instead of the $50K CBS spent for the 1960 Winter Olympics, ABC jumped at it. They had lured legionary sportscaster Jim McKay who covered the Olympics for CBS to ABC in 1961, and with the production staff ABC had put together for their Wide World of Sports franchise, they were uniquely qualified to make a go of it. Technology being what it was at the time the 16,5 hours of coverage was videotaped, in black and white, and flown back to the states. Luckily most events at Innsbruck were in the morning, giving enough time given the seven hour time difference between Austria and the east coast of the U.S. for the events to be flown back and aired that evening.
+
+The Geo-synchronous satellite for television use was still a few years away, so the only live event aired in the states was a 15 minute window of the closing ceremonies provided by the Telstar satellite, launched in 1962, which had to be tracked as it passed over Europe.
+
+ABC held onto the Olympics until 1988, and then lost the rights to NBC. The last Winter Olympics ABC aired cost them over three hundred million dollars.
+
+As the book has mentioned a number of times, ABC often looked to the Group as their engineering arm. As we looked at a short while ago, ABC was pushing for another innovation for the 1980 Olympics, the 300 switcher. ABC also presented a special project on top of the mess that was the 300, they asked the Group to develop a system to send video down fiber optics for use at the 80 Olympics. While extremely common today, it was a novel idea inside the television industry in the late 70s.
+
+Eric Rosenthal of ABC Engineering asked Birney Dayton to head up the fiber project for those Olympics to solve the "long run" problem. The Winter Olympics required cameras placed high up on mountains to cover the ski runs. These could literally require runs of well over a mile. Sending analog video down coax cables, would not cut it. The only other way to get camera video off the mountain was with microwaves. Microwave gear was expensive, and still not very portable, and most importantly required line of site. Often not possible in these settings, and many paths would require multiple links to get it where it needed to go.
+
+In addition, ABC prided themselves in firsts. Peter Cervalic of ABC connived for the Group's system to be used for the opening ceremony, which would make it the first fiber system ever to carry video, even though AT&T had a fiber link back to New York City.
+
+**********************************************************************
+Need to clarify this — opening ceremony to where — no AT&T link back to NYC used? Or was it that the path was the GVG link first and then the AT&T link?
+**********************************************************************
+
+One additional project that ABC wanted the Group to do at that Olympics was a four channel audio transmission system.
+
+This was the Groups first digital project. It was audio, not video. While the video fiber products were analog, this audio project was not. This became the core of the first fiber products offered by the Group. Birney Dayton, who was involved with this, might have foreshadowed his future, as we will see later, as he ended up running a company that focused on digital audio for part of its life.
+
+It got out that the Olympics was using digital audio, and there were many reports that it added stress to the viewers. Was absolutely not true. All audio you consumed today through television transmission is digital. This digital product just plain worked and was extremely reliable. The Group had very little problems making the thing. However it was too expensive, and it was far cheaper to run analog audio, so over the next couple years they sold only a couple units, so they gave up trying to sell it. The fiber folks went back to concentrating on analog devices.
+
+Soon the Group got a second order for a fiber system, this one at Epcot Center, to supply video to kiosks. Using fiber on long runs eliminated another issue, especially in Florida in the summer, lightning induced voltage spikes.
+
+https://www.lomaricatv.com/preview/chapters/graphics/wavelink.jpg
+Wavelink was formed in 1983 and had its own building, which was also out by the airport. The original department manager, Pete Mountanos, is standing in the doorway. 
+****************************He left in ????**********************************************8
+
+Mountanos saw an opportunity to sell the product to telecom companies and talked Jerry Sakai, who oversaw the Modular Division as part of the management council, and Modular G.M. Randy Hood into letting him set up a separate operation in a building near Modular's. Mountanos realized that there were only a few companies that had all the pieces to build 1.2 GHz fiber backbone. The Group was one of them. Even though, the idea of Grass Valley getting into the telco industry, he had to overcome the ingrained notion that the company was a video company and not a transmission company.
+
+The company branded this effort Wavelink. Wright was determined to "divisionalize" everything and didn't want hybrid manufacturing to be centralized, which Dayton was lobbying for. Dan Wright, the Group's GM at the time, decided to pull Dayton out of hybrids, and that Wavelink operations would be separated out of Modular, but would not be called a division, but just a group. It became known as the Telcom Systems Group. While Dayton continued to hold the title of VP of Engineering, Wright thought that this second hat, as a group, instead of a division manager, would reign in some of Birney's influence.
+
+Dayton reported to Wright directly. Curiously not to Jerry Sakai, who ran MPD, and had been the one originally sold on the idea. Dayton was not looking for the job. Mountanos was very upset because the optics were such that it appeared to him that Birney had lobbied for his job. Pete Mountanos had set up the Wavelink business and had it running and then Wright arbitrarily put Birney in charge of it. Mountanos retired and expatriated himself to Thailand.
+
+In the television realm the Wavelink group only had modest success, as digital systems back then were always expensive. Additionally broadcasters at the time had no interest in fiber, and at the same time the group had no way to sell to telcos. But besides a few high profile projects for ABC, plus a few others, television folks were not interested at the time in replacing copper cabling with fiber. It was the telco industry that was pushing for fiber connectivity. Wavelink had some modest success and sold eight systems to Telcos.
+
+After the initial ABC Olympics audio system, early products were all analog, both video and audio in and out, and transmission down the fiber. Early products were the 3290 (video only) and 3291 (video and audio) modules.
+
+Tektronix had a division in Redmond that was making telco test equipment. Danny Edmure ran that division. Was there any connection between it and Wavelink?
+At some point in the late 80s Wavelink had a laser version and was doing 20 mile runs. When? What was the technology before? Lengths before, Multimode/singlemode?
+
+In 1985 the Group sold six 3290 systems that worked over a 1.2 Gb fiber link to Los Alamos. These six were each on a different fiber, and in those days there were commonly 12 fibers in a bundle of fiber. At one point the lab used the six GVG paths and hooked them up to a Cray supercomputer as a test of the video integrity of the units. Within two hours by degrading or stressing those paths they found pathological errors.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+How does Dave Hershberger fit into Wavelink, and anything else grass for that matter? I know about his involvement with Tek/GV SDI chipset in the 4000 switcher. But any elaboration there would be helpful. Was the chipset done through MSD, or PSD and/or Tek?
+*******************************************************************************************
+
+Another player that we will see throughout the rest of the book is Chuck Meyer. Chuck went to work for Wavelink, or the Telcom Group, as it was called by then, in 1986. There he worked with Jim Michener and Dave Hershberger. While Meyer was at the Group he worked on another digital audio project, an audio multiplexer that would allow transmission through T1 telco lines. But Chuck didn't think he was a good fit at the Group and left in 1990 and went to work for Applied Design Labs with a person he had worked with earlier, Ron Milner, the founder of the company. Both Milner and Meyer had worked at Cyan Engineering. They did work for Nolan Bushnell of Atari fame. Again we will pick this back up in the Fairchild Effect chapter. But his and Dayton's paths would continue to cross in the future.
+
+In 1989 Birney Dayton left to found NVISION, Michael Pugh became head of the Telcom Group. He came from San Diego where he had worked for a fiber optics developer, where he designed serial to parallel conversion ICs. He was recruited in 1989 but actually started in June 1990. His background made him a good fit to head the group's efforts.
+
+The problem was that after a year Michael was eased out because people were uncomfortable with him being in charge of engineering, as his wife, Anna Greco, was in charge of marketing for the Telcom Group. The Group and Michael parted amicably. After GVG he then consulted with a company called Virtual Vision to do some chip design. He also consulted for Schelling robotics in Davis, CA. They were makers of underwater cameras that attach to remote vehicles. In addition he went on to engineer for a workstation company and he was a representative on the fiber channel A/V committee. We will pick Michael's story back up in the Fairchild Effect chapter.
+
+Anna Greco, the other half of a two engineer couple also started at the Group in 1990 and spent 10 years with the company. She branched out at the Group from engineering into strategic marketing and business development for the Telcom Group. In 2000 when Tektronix sold Grass Valley, they kept the Telcom Group as it still meshed with Tektronix's business goals at the time, and she stayed on for a while. Like her husband, we will pick up her story again in the same chapter.
+
+After Pugh, John Glass became head of the Telcom group. Jim Michener was the lead engineer.
+
+An opportunity presented itself to the group that turned into a disaster. Williams, a Tulsa energy company based in Tulsa, wanted to run fiber through their oil pipeline network. (Why? For internal use or did they want to provide connectivity to others?) This project became known internally as Excalibur. (Why?) The Group signed a contract to provide that capability. The caveat was that it had penalty causes the Group would have to meet, if not the company would have to pay to Williams. It turned out the to perform to the customer's specs the Group would have to create special ICs, or Application Specific ICs (ASICS). (Why?)
+
+A problem GVG had in designing ASICs was that instead of the most advanced modeling tools they had to use tools that Tektronix already had. These tools were analog in nature, almost like spice, analog design simulation software, that as we will Also see in the Fairchild Effect chapter, has some connection to the area. The design simulations were being run on 386s of the day and were taking so long that the simulations would have to run overnight. At some point they managed to get some time on a Cray, but it was not enough to stave off disaster in time.
+
+As we touched on earlier in the section on modular, since the ASIC was to be comprised of digital circuitry, FPGAs, much cheaper and quicker development, could have been used to get the design working. Then port it to an ASIC. Instead they opted to go straight to an ASIC each iteration, which quickly led to extremely high costs.
+******************************************************************************
+Please elaborate as to what is right or wrong here
+******************************************************************************
+
+Tektronix bought a company down in the bay area called LP communications that made a T1 tester.
+*****************************When? 1988? 1989?********************************
+
+******************************************************************************
+IS ANY OF THIS TRUE? 
+
+Birney Dayton and Danny Edmure from Tektronix, along with the LP heads convince Dan Wright to combine those three operations into one standalone entrepreneurial operation to make it worthwhile to develop the market. Wright, as we have seen was big on breaking large organizations into smaller divisions, pitched it to Friedley that all of Tektronix should be split off in this way. Friedley didn't take kindly to Dan's proposal. (At this time was Friedley still running Tek's Communications division and Wright GV. Or had Friedley and Wright both moved up, Friedley Tek president, Wright Tek Comm div?)
+
+Friedley says none of this happened. The time frame seems to be before Soros got involved, so any ideas anyone had about breaking the company up appears to not to be from Soros. This whole episode will need to be dropped if no concrete evidence appears.
+******************************************************************************
+
+While Wavelink was not a large part of the Group's sales efforts, it did end up having an out-sized effect on the company. It led to a number of key players in the company leaving. It also grew into a $12 million business by 1990, and then like the a lot of the rest of the Group, started a downward slide throughout the 90s.
+
+******************************************************************************
+What happened to Wavelink, did it stay with Tek after the sale?
+******************************************************************************
+
+<h2>Routers</h2>'
+https://www.lomaricatv.com/preview/chapters/graphics/70-6%20ABC%201800%20router.jpg
+The Group built a special "one of" product for ABC back in 1970, the 1800 television router. As we have mentioned what TV folks typically referred to as a router, is what the computer folks call a switch. Here Bill Rhorden discusses 1800 assembly issues with the lead assembler. The 1800 was the first video and audio router.
+
+By the time the television industry started making "routers," the switch term had already been given as the root part of switcher. Eventually the computer industry ended up co-opting these terms. Today television production switchers often have built in routers, it is not visa-versa, as dedicated video routers do not have production switchers built in, not yet. But one thing for sure is that as time goes on more and more things that were separate and dedicated to a specific function become combined in multi-function boxes.
+
+By 1975 the Group were offering routers, but most were still fairly customized for the particular customer. These routers were known as the 3600, and the 3200 "compact" router. (Any background on these?)
+
+We mentioned earlier that if a video switcher went totally down, while it would be a very bad day, the fall back is usually the video router. While a router cannot add effects, it would be able to get the necessary sources to air. If the router went down, the day is an unmitigated disaster. Large television routers have always been "enterprise" devices. A facility depends on them. They must be built to last and be fail proof.
+
+Starting with the router's power supply. It has to have a 20 year life as that might be as long as the router is in service. In most computers they only have a three year lifetime expectancy cycle. We have already talked a bit about heat in electronic equipment. Heat plays an important role not only in router reliability. Heat has a major effect on signal integrity, increasing signal noise, and decreasing signal stability. Airflow and heat density also affect long-term reliability, as the hotter the electronics are, the shorter their lifespan. Designers strive to create sufficient internal airflow and low-power consumption which ensures cooler operation. Localized hot spots inside gear, where heat density is too great for the airflow provided, will increase stress on internal components. Something as ubiquitous as muffin fans for cooling can lead to catastrophic failure. As fans age, they slow up, and eventually fail. The cheap ones do that much sooner.
+
+As signals have gone up in frequency from analog to standard definition digital, high definition, and now 4K, the heat generated by processing these signals has gone up as the frequency has gone up. Yes even with digital, we worry about the frequency. At the purely physical level, all the attributes that applied to an analog signal, still apply to a digital one.
+
+As a testament to router reliability, the audio digital router that went to Lake Placid for the 1980 Olympics, was shipped to ABC's Hollywood lot, and was in daily use until 2006. That router could move digital audio 2000 feet on the Hollywood lot.
+
+***************************************************************************************8
+1983 — Horizon?
+1983 was a big year 1st standardized router-Up until then routers were custom built for the customer. True?
+Where does the 440 fit in to this?
+440 router and fiber.
+Difference between the 440 and the Horizon?
+****************************************************************************************
+
+https://www.lomaricatv.com/preview/chapters/graphics/horizon%20development%20team.jpg
+By 1975 the Group were offering routers, but most were still fairly customized for the particular customer. 1983 saw the first standardized router, the Horizon. Here is its development team.
+
+https://www.lomaricatv.com/preview/chapters/graphics/nasa%20router.jpg
+In October of 1983, the Group got their first big government sale. A $4.35 million contract for a 440 router for NASA at the Kennedy Space Center. It was also the largest single-quantity order that the parent company, Tektronix, ever had received at the time. The router was so large that it took up 22 equipment racks and required 32 miles of cable just within those racks.
+******************************What was the matrix size?******************************************
+******************History of the router matrix. Was it a custom video matrix from Tektronix labs?*****************
+
+*************************************************
+Story behind:
+1992 — 7000 analog
+1996 — 7000 digital router
+1998 — 7000HD
+Are any 7000s still in use?
+*************************************************
+
+Today the routers that Grass Valley offers are not even Grass Valley designs. As we will see the company became so homogenized that a good part of product manufacturing is done in Canada today, and a lot of the current products were designed by companies that subsequent parent companies forced the Group to merge with.
+
+When it comes to routers today, the dedicated television router, that is one that handles baseband audio and video, is starting to go away. In the future video and audio, media, will be routed as IP traffic. In addition with ever increasing clock speeds, the industry was coming up to an inflection point, where new traditional routers would have to be designed from scratch. Over the years routers have gotten so complicated that to design a new one would be a major development effort. The motherboard on the company's latest television router offering, the 8576, a 20 year old design, is a quarter inch thick and it has 38 layers. All components on this board have 5/1000th of an inch tolerance. The company that originally offered this router was NVISION, which, as already mentioned, was the only spin off the company ever had. At that, it still ended up back in the fold! We will visit NVISION later.
