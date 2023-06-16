@@ -243,3 +243,290 @@ Like it did with Grass Valley, Thomson originally wanted to stress its own brand
 
 Technicolor's historic core competency has been in color science, be it it's original giant three-strip film cameras and film processing, is today extended into the video digital realm, as film is no more. What once ended up on film is now a digital bitstream, a "number sequence" to digital signal processing purists.
 
+<h2>Next! - Francisco Partners</h2>
+On January 1, 2011, Grass Valley, with all the additional products accumulated by Thomson, resumed operating as an independent company with offices in San Francisco, California. The sale to Francisco Partners, a San Francisco-based venture capital company, was another fire sale of the company. Essentially Thomson said you take Grass Valley and carry the debt and we will give you an additional $150 million.
+
+Francisco Partners invested in technology and technology-enabled businesses. They looked upon themselves as "turn-around-artists," willing to invest to reposition, re-capitalize and rejuvenate companies, which GV severely needed. At the time it had $5 billion in capital and claimed to have the expertise to pursue enterprise investments ranging from $25 million to $2 billion. The deal was put together by David Golob and Brian Decker.
+
+https://www.lomaricatv.com/preview/chapters/graphics/davidgolob.jpg
+David Golob
+https://www.lomaricatv.com/preview/chapters/graphics/briandecker.jpg
+Brian Decker 
+
+Golob joined Francisco Partners as a Partner in 2001 and he focused primarily on investments in the software and services sectors. Prior to joining the firm he worked for three other venture firms focusing on technology and software. Early in his career, he was a management consultant with McKinsey & Company and a Product Manager with Newport Systems Solutions, Inc. which was acquired by Cisco. Golem said the Grass Valley deal was just too good to pass up. Essentially they bought the company with no money except taking over the debt.
+
+Decker was a Deal Partner with Francisco Partners, Before Francisco he was a Business Analyst with McKinsey & Company where he focused on the semiconductor, telecommunications, and hardware sectors. Earlier he had product and strategic marketing roles in a couple high tech companies. He represented Francisco Partners on the GV board.
+
+<h3>Alain Andreoli</h3>
+https://www.lomaricatv.com/preview/chapters/graphics/Alain%20Andreoli.jpg
+
+They brought in a Silicon Valley guy. Alain Andreoli joined Grass Valley as CEO from Francisco Partners, where he was an Operating Partner. Just prior, he was President of Sun Microsystems Europe which represented 40% of Sun's business, until Sun's acquisition by Oracle in 2011. He then joined Francisco Partners. Andreoli said the new management was committed to bringing Grass Valley back to its glory days. To many the brand was not as pure as it once was. Many could look at equipment throughout their facility and see the various incarnations of GV and Thomson, maybe even an old Tek/GV logo, on plenty of routers and servers and cameras, some going way back to the old GVG logo with the two mountain peaks. Andreoli said Franciscan Partners was prepared to invest millions over the long term to bring the luster back.
+
+The first thing the company had to do was regenerate standalone departments for finance, legal, HR and so on. Andreoli also indicated that he knew the company needed to rebuild the service arm of the company. To try and do that he turned to another computer person, and hired a new head of service from HP.
+
+Andreoli was aghast at all the custom hardware Grass Valley built. He stated that moving forward the company would do everything with off-the-shelf (OTS) computers. Deja vu, 14 years hence! Maybe Fjeldstad was just to soon? To that end he started an initiative called Galaxy. He cited the parallels between IT, and broadcast technology. He noted how storage had evolved from islands of directly attached storage, through SANs and NAS to unified central storage, either locally, or in "the cloud." He directed the company to concentrate on media "lifecycle management," which ended up as software called Stratus. That part of the project lives on today, having evolved into a video production and content management toolset that organizes workflows.
+
+https://www.lomaricatv.com/preview/chapters/graphics/GV-Stratus.jpg
+Graphic depicting Stratus GUIs
+
+Andreoli's view was radically computer centric. While the industry was definitely heading into that camp, it was still not yet quite ready for "prime time," as the processing horsepower, and Internet bandwidth was still not quite there. He stated that the network had become the computer, with on demand utilities like Amazon and Rackspace. One of Amazon's major business units provide servers in the cloud. Rackspace is another. He said that "Our space needs a few specialized but scaled "IBM-Like" leaders who can unify the contents lifecycle management and reduce costs."
+
+Andreoli would contrast the situation that generally existed then, where broadcast technologists preferred to buy proprietary best of breed products. Andreoli often used an analogy. Where hunter-gathers would wonder the wild-wide open spaces to farmers. He described the broadcast industry as the hunter-gathers. He defined the farm as a seamless content management factory, ultimately a utility. He said, "it must change into a farm." To build the farm, he advocated a smaller group of vendors with inter-operating solutions, much like the IT industry had become early in the new century.
+
+This is much like the observation George Hoover, former CTO of NEP Inc., NEP is the largest vendor of production services in the world, had made concerning the remote production industry earlier. Early on he said vendors of such services had been cowboys. They needed to become ranchers to survive.
+
+The world was moving towards wired and wireless connectivity through the Internet. The argument was that broadcasters had to do the same. Specialized hardware would greatly diminish, and that vendors would need to move to sell solutions and services. Moving to file-based operations would allow broadcasters to switch to IT technology, and that closed "best-of-breed" systems would give way to open architectures. He was exactly right as we will see in chapter 18, just wrong about the time frame.
+
+He foresaw one other revolutionary development. The rise of variable operational costs that would replace a lot of capital spending. Renting elements or capability to produce a show from services in the cloud. What use to reside in a facilities equipment or "rack" room would be somewhere else and be much more software than hardware based. While control panels and other operator surfaces might be local, the processing would not.
+
+At that time to move in that direction, GV started development on a localized version of that concept. The K-Frame would allow any of the "K" control panels, such as Kayenne, Kayak, Karrera, Korona, etc. to control central processing in the K-Frame, which they dubbed a video production engine. Switchers, at the time, touted as the backbone of the company, were losing money and market share. While an ambitious project, it took almost three years to go from concept to shipping reality.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ldx-82.jpg
+
+The company needed new products. Their routers were getting long in the tooth. The Beaverton server division was producing the Dyno replay system, and while operators liked it, GV was not making a compelling business case for it. LDX cameras, out of the Netherlands, were a bright spot. Another locally engineered product, the GV Director, comprised a switcher, video server, graphics generator, and multiviewer display, with a smart control surface and touchscreen panel, assignable buttons, and a T-bar, provided a simple, powerful, and creative workspace for live monitoring and switching.
+
+At a time when it had embarked on a bold new intuitive with the K-Frame, the company needed to refresh the offerings in another core product, routers, the company was laying off engineers. Bob Weaver, in a blog at the time quipped, "The firings will continue until we ship this product!"
+
+Another product that was getting tired was the Ignite newsroom automation system. At one point GV was going to retire it. But after it won an Emmy they decided to keep it. They released a new software version to update it, but customers never seemed to be impressed with the improvements. It was not competing well with newer competition, and it did not scale down well for smaller markets.
+
+https://www.lomaricatv.com/preview/chapters/graphics/gv%20director%202.jpg
+https://www.lomaricatv.com/preview/chapters/graphics/gv%20director.jpg
+Grass Valley Director
+
+https://www.lomaricatv.com/preview/chapters/graphics/playstation.jpg
+
+Another big evolutionary development was trickle down technology. A Sony engineer once observed that up until the late 90s, technology from their high end broadcast gear, would eventually find its way into consumer gear. Now it was the opposite. Technology had gathered enough critical mass that new developments would rapidly become economical enough that they would go straight into consumer gadgets. Recently, half-jokingly, it's been suggested that Sony Broadcast high end hardware might be reduced to residing in a Playstation. The Playstation uses a multi-core multiprocessor called the Cell. It combines a general-purpose PowerPC core of modest performance with streamlined coprocessing elements which greatly accelerate multimedia and vector processing applications, as well as many other forms of dedicated computation. Its an early microprocessor that relies on dedicated circuitry video and audio processing and not the microprocessor itself. It was developed by Sony, Toshiba, and IBM.
+
+This, even back during Andreoli's reign, was happening. A common example even then, were image capturing devices, cameras, and cellphones. Today a person with their iPhone could capture some video at the same time a very high end television camera was doing the same, The cost difference between them could be three orders of magnitude, $100K verses under $1K, and the quality difference would not be objectionable. The earlier broadcast technologist who would search out "best-of-breed" solutions, now could be competing with the concept of "good enough". We have mentioned before that much earlier television technology was much less robust, and technicians and engineers, much like IT folks today, were the keepers of what made it to air.
+
+That all changed when the Sony Umatic VTR was discovered by news departments in the 70s. Now content trumped the holy grail of quality. Even though at the time sending a Umatic VTR to air often broke at least one technical rule still in the FCC regulations, the writing was on the wall. Multimedia content producers could now decide what platforms suit their business needs. Much of those were from generations of new users that had no concept of "broadcast quality."
+
+While the K-Frame eventually made it to market, the off the shelf hardware part of the "Galaxy" quest did not. The problem was that Andreoli would not allow any of the drivers for OTS hardware, or the OS and other low level software to be modified. It was simply too early to adopt this standard off the shelf approach. It still wouldn't work at that time with real time HD video.
+
+Under Andreoli Grass Valley outsourced its final assembly and testing operations from its Nevada City headquarters in July 2013, followed shortly by a lay-off of 34 local employees. After the outsourcing, the company's Nevada City facility continued to handle purchasing, customer support and switcher engineering. In 2009, Grass Valley still had nearly 300 employees at its Nevada City facility. Following another 10 percent reduction the following year, the company had around 270 employees in 2011 in Nevada City. After additional outsourcing it was below 200.
+
+At the end of that year the increasingly wanderlust company moved its headquarters to Hillsboro, Oregon to an existing office inherited from Tek. soon Grass Valley moved up the road from its former Profile server digs in Beaverton.
+
+While GV employment in the area was now dropping quite precipitously, the company had facilities in Burbank, Ca; Norcross, Ga.; Montvale, N.J.; Hillsboro, Ore.; Salt Lake City, Utah; and Miami; as well as Canada, along with several European countries, Dubai, Russia, Japan, Australia, New Zealand, and a handful of Asian countries. It was rapidly becoming a citizen of the world and becoming only loosely coupled to the land of its founding.
+
+When Alain Andreoli stepped down in 2013. The writing was on the wall.
+
+<h3>Tim Thorsteinson is back</h3>
+Chuck Meyer was on a plane sitting next to David Golob during the time when Alain Andreoli was getting ready to step down. Golob at the time was chairman of GV's board. As you recall he was the Francisco partner instrumental in buying GV. As a joke Chuck suggested they hire Tim Thorsteinson. Thorsteinson was GV's President when Tek sold the company, and again when Gooding sold it.
+
+Six months later Golob made the following announcement in January of 2013: "We are pleased to have Tim Thorsteinson join Grass Valley at this pivotal point in the company's transformation. Tim's in-depth industry knowledge and his proven track record of value creation will ensure Grass Valley's continued success as an independent leader in the rapidly evolving broadcast infrastructure market."
+
+Besides moving up the Tek ranks and running GV before, then leaving in 2003 to become president of Leitch. Thorsteinson had also been President of the broadcast communications division of Harris Corp., and president when Harris Corp. acquired Leitch in 2005. He resigned from Harris in 2009.
+
+"Grass Valley is uniquely positioned to help lead the broadcast industry into the multi-platform era and I am excited to be joining the team," Thorsteinson said. On another occasion he said, "I love Grass Valley, it's always been a great business and a solid brand.' But he also warned that 2013 would be a difficult year. 
+************He was there to sell and cash out the investment for Francisco Partners. True?************
+
+Mark Hilton, who was originally hired by Tek in Oregon, came down to GV in the late 90s, had left in 2005 as he did not like what was going on with Thomson, and went to work for HP for nine years. Thorsteinson had contacted him, and said that they were about to be sold, and he didn't know where or how they would use him but it was exciting times and so Hilton was interested. Hilton was the person who restarted the modular division after Fjeldstad had shut its R&D down in the 90s.
+
+During the second half of 2013 there was a huge fall in sales in the broadcast industry. Companies in the industry saw declines of 10-40% sales. Part of that was the lull after the large extravaganza NBC had put on for the London Olympics. NBC broadcast all events live through either television or digital platforms. They provided 5,535 hours of coverage across NBC, NBC Sports Network, MSNBC, CNBC, Bravo, Telemundo, NBCOlympics.com, along with two specialty channels, and the first-ever 3-D platform. That surpassed the coverage of the 2008 Beijing Olympics by nearly 2,000 hours. NBC itself accounted for 272 hours of coverage. Internet and cloud infrastructure advancements, along with very large storage systems pushed the rush towards the cloud.
+
+The Olympics often dictated the television equipment cycle. Two years before the Olympics NBC, who had been sole U.S. broadcaster of the Olympics since 1988, along with the rights holders in other countries around the world, would bulk up on the "latest and greatest" gear. Then afterward, budgets busted, and the propagation of much of that gear pushed outward to the networks other facilities and sold off to others, famine would strike. 2013 shaped up to be worse than normal. In addition Europe was still recovering from the 2008 economic crisis, especially Cyprus, Greece, Ireland, Portugal, and Spain.
+
+Increasingly, the "commoditization" of products was occurring, as standard platforms were able to do more processing, software was becoming the value added product. Grass Valley decided that soon it would begin selling software licenses for their products, which could become a nice revenue stream.
+
+"We were No. 1 or 2 in switchers, routers, servers, news systems. I intend for us to be there again." Thorsteinson said at the time. All the while what Thorsteinson was really doing was positioning the company to be bought so Francisco Partners could cash out. That happened when a company that many at the time thought was in a position to brake the cyclic peddling of this venerable broadcast equipment vendor, stepped forward.
+
+Soon GV was no longer in the Francisco Partners portfolio. Belden took over in February 2014 for around $200 million. Francisco Partners walked away with around $50 million in profits.
+
+<h2>Being Bigger - Belden</h2>
+Biologists note that bigger species are better at capturing prey, they can travel longer distances, and support bigger brains. Economy of scale is something biology has known for hundreds of millions of years. So why hasn't evolution made every species freaking huge? To quote Aaron Clauset of the Santa Fe Institute and Doug Erwin of the Museum of Natural History, "The tendency for evolution to create larger species is counterbalanced by the tendency of extinction to kill off larger species."
+
+To quote Morgan Housel writing for the Collaborative Fund "Body size in biology is like leverage in investing: It accentuates the gains but amplifies the losses. It works well for a while and then backfires spectacularly at the point where the benefits are nice, but the losses are lethal."
+
+Bugs can fall from heights thousands of times their own height with little to no damage. Small rodents maybe 50 times. A human is done it they fall from 10 times their height. An elephant: twice its height and it is history.
+
+Big animals require more of everything: land, and food. Food is why the larger animals fail during a famine. They have other drawbacks; can't hide easily, move slow, reproduce slow. The biggest advantage is their best and worse: being at the top-of-the-food chain status means they usually don't need to adapt, but very bad when adapting is required. That is why the cockroach, and bacteria will be here long after we are gone, and why dinosaurs disappeared 65 million years ago.
+
+Large companies that could not adapt: Sears, Kodak, Blockbusters, Polaroid, Toys R us, Pan Am, Borders, Tower Records, Radio Shack.
+
+Blockbusters, Toys R Us, and Radio Shack failed because they ignored the Internet. Sears was actually an early explorer when it came to online sales. But it gained a reputation for not caring for its employees, which showed in its stores. Things got worse and human nature took over, no one wants to be associated with or do business with a failure. In the case of Pan Am the market environment changed and it didn't. Kodak and Polaroid, held on too long to technologies they pioneered and would not compete against.
+
+As we know being first does not guarantee success. Just look to Myspace and Yahoo!. A failure that actually was very close to where the business is going today, was the squandering of $99 billion that happened when AOL and Time Warner merged. The timing was bad, right before the dot-com bubble burst. AOL shareholders owned 55 percent of the combined company while Time Warner shareholders owned 45 percent. AOL's co-founder, chairman and chief executive officer, Steve Case, became chairman of the new company, while Time Warner chairman and CEO Gerald Levin was named its CEO.
+
+The behemoth, $350 billion at the time of the merger, mega-corporation was created at the beginning of 2000 when the two merged. AOL had an early online audience, and Time Warner had a television audience. In theory the company should have dominated in every type of media, including music, publishing, news, entertainment, cable, and the Internet. AOL's valuation was more valuable in market cap terms than many blue chips stocks.
+
+Even though they merged officially, that never happened operationally. It appeared that no one did any due diligence as to whether the two cultures would mesh. The aggressive and, many said, egotistical and condescending AOL people appalled the more sedate and corporate Time Warner side. Cooperation and promised synergies failed to materialize as mutual disrespect came to dominate their relationships.
+
+Two things led to the company's eventual demise. The dotcom bubble burst, and the economy went into a recession. Advertising dollars dried up. The second was technology. While AOL was the king of the dial-up Internet world, it was rapidly being supplanted by always-on, and much faster broadband. At the time of the merger, half the country had Internet access, but only 3% had broadband. AOL's business model was based on payment for a monthly dial up subscription. Starting in the 2000s a business Time Warner was already in, cable, was rapidly eating into the need for AOL's part of the business.
+
+In 2002, AOL Time Warner reported a quarterly loss of $54 billion, the largest ever for a U.S. company. In the couple of years after the acquisition AOL's value fell by 90%. Time Warner spun off AOL in 2009 for pennies on the dollar. Levin,was widely blamed by shareholders for allowing Time Warner and its stable old-media assets to be effectively taken over and dragged down by the ailing new-media division, resigned in December 2001. In 2018, AT&T acquired Time Warner.
+
+We just saw how Thomson thought economies of scale would make them more efficient. Economic evolution pushed them that direction, so they could bring more value to the stockholders. But when is too big? When does economies of scale become self-destructive? Thomson was well on its way to being the dominant force in it's industry. But it bought its size through leverage. When the economy was good, and stable, seemed like a great idea. When world wide valuations crashed starting in 2008, it became a house of cards. Many thought the Thomson saga was mainly due to bad luck or timing.
+
+The kind of corporate culture that lets companies dominate an industry is not friendly to people who say, "I think we've grown too fast. Maybe we should scale back." They'll keep pushing until they're forced to make painful cuts.
+
+They say that someone with a 110 IQ, but the ability to recognize when the world changes, will always beat the person with a 140 IQ and rigid beliefs. You can have a penthouse full of smart people running a company whose knowledge was acquired 20 or 30 years ago when the rules of the game were dramatically different. That acquired knowledge was gained at a cost of money, time, ward work, and humiliation. That is a sunk cost that you don't want to write off easily as people tend to cling to what they already know.
+
+Marc Andreessen, co-author of the first widely used web browser, Mosaic, a co-founder of Netscape, and co-founder and general partner of Silicon Valley venture capital firm Andreessen Horowitz, encourages the idea of "strong beliefs, weakly held." That is the ability to focus on an idea but having the humility to let it go when its proven wrong.
+
+<h3>John Stroup</h3>
+John Stroup found himself as the CEO at a fat lazy Midwest (St. Louis) industrial manufacturing company called Belden in 2005. Before joining Belden, he worked as a senior executive for a company called Danaher, and he was responsible for global business operations around the world. In the small world department, that is the company that bought Tek in 2007.
+
+Stroup was able to increase the efficiency and profitability of the company. He managed to get Belden's share price up, but he could only go so far unless he found a way to greatly increase sales, and Belden had a significant share of the cable business already. The other option was to expand the company. Belden was sitting on a pile of cash, and Wall Street wanted him to do something with it. The standard rule of business is you invest in what's adjacent to you. Again size should yield synergy. The sales force should become more efficient with more products to offer, along with all the back office savings. You are selling more product to the same customers, and at the same time selling the same product to different customers.
+
+So he started to expand Belden into the markets that they already served. He considered their markets as enterprise, industrial and broadcast. In the broadcast arena, they got excited about the idea of getting more involved in active components. And just like many broadcast vendors, Belden considered itself a high-mix, low-volume company, and a strong commitment to lean manufacturing, so almost everything they make was built to order.
+
+Belden broke out of its wire and cable mold with the 2007 acquisition of Ethernet switch maker Hirshmann. It made industrial Ethernet switches used for automation. Two years later it bought a company much better known to broadcasters, Telecast. The company was a supplier of fiber conversion products for news gathering (ENG), and venue infrastructures. In 2011, it acquired ICM Corporation, a broadcast connectivity company, and the broadcast networking part of Thomas & Betts.
+
+In July 2012 it made its first big acquisition as it started its run up to do what Thomson tried but failed doing. It brought Miranda, which began as a small Montreal-based broadcast technology provider in 1959, the same year that Grass Valley was founded. There was only a four month courtship before the deal was finalized. Compared to other companies in the business, Miranda had seen a fairly respectable increase in revenue, and was doing well in emerging markets in Asia. Strath Goodship, a former Miranda CEO, was brought back to lead Miranda. Belden kept the Miranda brand name. Miranda at the time was a $200 million a year in revenue company.
+
+Denis Suggs, executive vice president for the Belden Americas Group, oversaw the acquisition. The acquisition made Belden a $2 billion business. It was founded in 1902 and had sold cable into the broadcast industry since 1932. As a cable alone business it was at $1.4 billion a year, of which $50 million in cable were sold to broadcasters. Suddenly in 2012 their broadcast business was almost $300 million.
+
+As became a theme, Miranda was an important investment to the local teacher's union, and the Quebec providence, who looked upon Miranda as a job creation entity. Soon after Miranda bought NVISION in 2008, as we will see in chapter 17, they moved NVISION's PCB fab and manufacturing facilities to Montreal. So almost immediately Miranda convinced Belden to move Telecast's manufacturing, which was out of Worcester, MA, to Miranda's Quebec, manufacturing facilities. Telecast's products also became a product line within the Miranda portfolio. Telecast Worcester office remained open for sales and service calls, sharing space with Belden's recently acquired Mohawk Cable business.
+
+Goodship said there is "surprisingly little overlap" in products between the two companies. In fact, Miranda had attempted to produce fiber conversion products several years before "and failed," according to Goodship. Telecast also had a loyal following among the mobile truck community.
+
+Belden did well with the Miranda acquisition, as by the beginning of 2014 Belden stock had doubled.
+
+<h3>GV's Turn</h3>
+In March of 2014 it finally became GV's turn. Belden bought GV from Francisco Partners and immediately merged it with Miranda. Marco Lopez was the president of Miranda at the time, and he became the President of the combined GV/Miranda company. Interestingly the GV brand was kept, and the Miranda brand retired. But in tribute to the part of the company that actually controlled the company but lost its own name to a small town in California, Miranda's magenta color scheme replaced Grass Valley's green theme.
+*******************************************************************************
+Was that the plan all along? Did Belden initiate it, or did Miranda? Did GV know what was going to happen? Was this something Thorsteinson had a hand in? Golob?
+*******************************************************************************
+
+With the acquisition of Grass Valley, the percentage of revenue from cable products for Belden was about 35 percent. When Stroup joined the company in 2005, it was almost the entire company. By 2015 Belden was a $2.4 billion company. Broadcast accounted for about $1 billion of the company's revenue.
+
+Miranda and Grass Valley had some overlap, but each had products, and strengths the other didn't have. Belden's video business went from $200 million to $500 million. At the time Stroup was still talking about economies of scale.
+
+The Miranda product line was heavier in routing (thanks to NVISION), playout, multiviewers, monitors, graphics, and branding, while Grass Valley focused more on production switchers, automation and editing, servers, cameras, and camera systems. In theory this broad product offering makes things easier for their customers. Smaller vendors would have to pursue a best-of-breed route, selling niche products. Customers going this route are vulnerable to one piece of their puzzle failing, either by a financial issue with the vendor, or simply a technology snafu. The fact that Belden was financially stable and the additional support of Miranda, made many customers, especially the mobile production truck vendors who were heavily committed to GV, feel better.
+
+While Belden had St. Louis as their headquarters, it was a small office, of about 40 financial people, the legal team, and the human resources staff. Their manufacturing was all over the world; United States, Canada, Mexico, China, Brazil, Germany, Czech Republic, United Kingdom, France, Netherlands. They tended to build products pretty close to consumption. So Belden was quite comfortable with managing a global enterprise.
+
+The headquarters of the combined companies ended up in Montreal. There was no chance at that point that Grass Valley would ever see the corporate HQ located in the area ever again. Francisco Partners originally ran GV from San Francisco and then moved it to Oregon. While GV was the larger of the two companies (correct?), it was already scattered around the globe, with only a small percentage still in the Grass Valley area. In addition Belden had a facility near Miranda's and thus they were familiar with Miranda's operation. Quebec also had big tax incentives to be there. By the time Grass Valley was merged with Miranda, Grass Valley had no manufacturing left in the Grass Valley area.
+****************************************************************************************
+Who was Straph, was he on his way out At the time of the merger? A quote from someone "He was a guy who loved to watch his first knights fight."
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Some GV employees were moved. Mark Hilton moved to Montreal for a year for the modular products, now being built there. He moved back to Grass Valley, as one of the dwindling number of employees there, and in 2017 he then took over as VP of the Live Group. This included cameras, switchers, and replay. Cameras are built in Bretta, Netherlands, and replay was based on the K2, which was developed up in Oregon, and evolved out of the Profile. As Grass Valley continued to downsize in their namesake area, Mark was left go in 2019.
+
+<h3>Buying up the U.K.</h3>
+But Belden still was not done. In February of 2018 Snell & Wilcox was acquired.
+************By Belden or GV?****************************************
+
+The Newbury, U.K. company had been founded by Roderick Snell, in 1973. It had re-branded as Snell Advanced Media or SAM. Many of its product lines overlapped with GV's. But somethings Snell was deemed to do better. With the acquisition of SAM the focus moved from the K2 replay system headquartered in Beaverton to theirs.
+
+SAM was an outgrowth of a 2009 merger of Snell & Wilcox and Pro-Bel, another U.K. company. The resulting company took the name Snell. Pro-Bel developed automation, media management and master control technology as well as routing, control and signal modular products. Snell & Wilcox developed systems for video playout, mastering, repurposing, live production switching, and it also did signal modular products.
+
+In March 2014 it was announced that Snell had been acquired by Quantel and the combined company took the name SAM. Quantel made its name in the graphics arena. Introduced in 1981 the Quantel Paintbox was a dedicated computer graphics workstation for composition of broadcast television video and graphics. Its design emphasized the studio workflow efficiency required for live news production. It had a price of about $250,000 per unit (equivalent to $374,000 in 2020). Launched nine years before the release of Adobe Photoshop there was nothing else to touch it performance wise at the time. What the Paintbox offered would have been impossible without expensive, cumbersome, and dedicated hardware. The Paintbox was still going strong into the 1990s.
+
+Ahead of its time in capability Quantel's entry into the DVE market in 1982 was the Mirage. It could warp a live video stream by texture mapping it onto a three-dimensional shape. Not possible until then. In 1985 Quantel introduced the first of their series of "H" non-linear editors, Harry, followed by Harriet in 1990, and Henry in 1992. Quantel products were always proudly situated at the very high end. The cost of spending a couple hours in a Henry editing suite in the 90s would buy you a computer fully loaded with software today that would deliver the same results.
+
+Quantel reached their peak with the Pablo, a color correcting tool which James Cameron used to post produce the 3D Avatar movie in 2009. The Pablo was followed by the Pablo Rio, a complete color correcting and finishing system.
+
+Despite becoming the industry standard for TV graphics and post production, with hundreds sold around the world, the company began to stagger from 2005 onwards. So in 2014 it acquired SAM. SAM was another British high-end hardware-based manufacturer, famous for their Alchemist standards converter. SAM also had a loyal following with their own line of high-end production switchers.
+
+After the departure of Quantel's CEO Ray Cross, Tim Thorsteinson was appointed CEO in February 2015, until June 2017 when it was announced that Tim Thorsteinson was stepping down as CEO and being replaced with Eric Cooney.
+
+*****************************************************************************************
+Why did Thorsteinson step down? Was it because of cancer? From past history he should have sold SAM to GV. What a convoluted tale that would be. How many people can sell a company more than once (Besides Birney, and maybe Dan) and then sell another to the company he sold?
+*****************************************************************************************
+
+In January 2018 Tim Shoulders became GV president, and subsequently moved to Montreal. He has a Bachelor of Arts in Finance and Accounting from Ball State University and joined Belden in 2011. He led Belden's global Broadcast AV Cable business as vice president/general manager and then served in the same role for the global Industrial Cable business. He was known in the company as merger and acquisition specialist. (Was he promoted to look into selling GV?)
+
+With SAM now incorporated into the "Group," Grass Valley continued to be headquartered in Montreal. Eric Cooney, former president, and CEO of SAM stayed on in an advisory role. The SAM brand was retired but many of its products are still offered under the GV brand.
+
+<h3>Everywhere but here</h3>
+By June 2015 what was left of the company in the Grass Valley area was consolidated into what was originally the NVISION building after completion of a $3 million renovation of the building. It was redesigned to house 200 people. The company moved out of the Providence Mine site, and effectively moved back to its namesake town, and out of Nevada City. It had not been since the early 60s that the Grass Valley Company was actually in Grass Valley proper. Now it was, but it would turn out not to last.
+
+At the time the area was happy and proud that the world-renowned company would stay in the area. Some in the area liked to think of Nevada County as "Video Valley" due to the technology cluster of other video companies. "I think it's very nice to have Grass Valley back in Grass Valley," said Grass Valley Mayor at the time Jason Fouyer in a cheerful ribbon-cutting ceremony before about 150 workers, contractors, city and county officials and residents. "They have the entire world they could have moved to, and they chose to keep it here." A bit glib seeing that the company's building was a mere outpost of the company at that point. And the signs were still bad and growing worse. The Providence mine site at its height had 400 based there. Now there were about 120 in the former NVISION building.
+
+About that time the company decided to combine engineering and strategic marketing groups into product units. The term divisions were dropped. There were four:
+
+1) Live Production
+Cameras – development and manufacturing in Bergschot, Breda, Netherlands
+Switchers – development only in <b>Grass Valley</b>, manufacturing in Montreal
+Replay – development and manufacturing in Hillsboro, OR, and Newbury, Berkshire, United Kingdom
+
+2) News Production
+Editing and Transcoding – development, and manufacturing in Kobe Japan
+Video Production and Content Management – development and manufacturing in Hillsboro,OR, Kuala Lumpur, Malaysia, and Weiterstadt, Germany
+Automated Productions – development and manufacturing in Hillsboro, OR, Montreal, Quebec, Kuala Lumpur, Malaysia
+Servers, Storage, & Recorders – development and manufacturing Hillsboro, OR, Kobe Japan, Newbury, Berkshire, United Kingdom
+
+3) Playout
+Integrated Playout – development and manufacturing in Castle Donington, Derbyshire, United Kingdom, Newbury, Berkshire, United Kingdom
+Master Control & Branding – development and manufacturing in Montreal, Quebec, Newbury, Berkshire, United Kingdom
+Transmission servers & Storage – development and manufacturing, Hillsboro, OR, Newbury, Berkshire, United Kingdom
+
+4) Networking
+Signal Processing – development and manufacturing, Montreal, Quebec
+Multiviewers – Montreal, Quebec, Newbury, Berkshire, United Kingdom
+Routers – development only in <b>Grass Valle</b>, development and manufacturing, Montreal, Quebec, Newbury, Berkshire, United Kingdom
+Monitoring & Control – development and manufacturing, Montreal, Quebec; Newbury, Berkshire, United Kingdom
+Fiber Transport – development and manufacturing, Bergschot, Breda, Netherlands
+
+*****************************************************************************
+Notice that Grass Valley only shows up twice. No manufacturing, only engineering support and development.
+*****************************************************************************
+
+Was the fact that any of the company still exists in the area mainly due to the optics of having no presence here?)
+
+Almost all of the other major acquisitions along the way are still represented from an engineering and development standpoint.
+
+Quantel-SAM acquisition is well represented in Newberry:
+Replay, Servers, Storage, & Recorders, Integrated Playout, Master Control & Branding, Transmission servers & Storage, Multiviewers, Routers, Monitoring & Control
+
+Also from Quantel-SAM , Castle Donington, Derbyshire, United Kingdom
+Integrated Playout
+
+The piece that Tek left behind in Hillsboro:
+Replay, Video Production and Content Management, Automated Productions, Servers, Storage, & Recorders, Transmission servers & Storage
+
+The Miranda part of the deal in Montreal:
+Automated Productions, Master Control & Branding, Signal Processing, Multiviewers, Monitoring & Control, including most of the manufacturing
+
+Philips, which came by way of Thomson in Bergschot, Breda, Netherlands
+Cameras, and Fiber Transport
+Philips also, Weiterstadt, Germany
+Video Production and Content Management
+
+Canopus Edius Editor, which also came via Thomson in Kobe, Japan
+Editing and Transcoding, Servers, Storage, & Recorders
+
+Kuala Lumpur, Malaysia 
+************************What acquisition brought this into the fold?********************************************8
+Video Production and Content Management, Automated Productions
+
+The first acquired facility to be totally eliminated was the BTS complex in Salt Lake City which came via Thomson and was originally the Telemation plant. It supported the Jupiter router control system, which came to Thomson via BTS, which acquired it from Philips. 
+***************************When & why?********************************
+
+The product mix has evolved so that what was a large selection of Grass Valley developed products, but also a lot from those brought into the fold and being sold under the Grass Valley brand. The K2, and Dyno, which was developed up in Oregon and evolved out of the Profile is still offered, but with the acquisition of SAM the focus is now on live touch replay systems built in Newberry.
+
+The Oregon facility still has about 60 people. They're doing asset management, and some server legacy stuff. They're also doing development on newsroom products, along with product family acquired from Parker Vision. There's also still a big service organization up in Oregon.
+
+Besides the production switcher family developed by Grass Valley, a switcher from SAM, the Kahuna is still sold. It sells very well in Europe. There is about a dozen person team in Cambridge UK working on it.
+
+The networking group is now split into two, SAM had a lot to do with this as well. The router unit and the processing unit, which was modular division before.
+
+Router product evolution was generally which acquired company had the newest router offering. Grass Valley was selling the Trinix Router when it was still a standalone company. When they merged with Miranda, the product offered was a router that they had acquired from NVISION. When Probel came into the fold via SAM, its offering became the company's offering. Interestingly Probel and NVISION went head to head in a lot of deals earlier.
+
+The only development work done in Grass Valley today is production switcher and some router, but most of the router work is now done in the UK. Grass Valley don't have anything to do with modular. There are about 40 engineers in Grass Valley. Most on switchers, but a few on the routers.
+
+With the final building up for sale as this book goes to print. That number will slowly drop through attrition and forced retirements.
+
+A lot of how the company evolved in the late teens of the new century was the oversight that Belden applied through the Miranda management. That forced it to focus on business fundamentals. Belden expected the company to budget how much they were going to sell, and how much profit they would deliver. GVG could no longer act like a startup and blow out money for future profits. They had to deliver every year, and every quarter.
+
+<h4>In Name Only</h4>
+There's a thing in biology called Dollo's Law that says organisms can never re-evolve to a former state because the path that led to its former state was so complicated that the odds of retracing that exact path round to zero.
+
+Say an animal has horns, and then it evolves to lose its horns. The odds that it will ever evolve to regain its horns are nil, because the path that originally gave it horns was so complex.
+
+There are things that, once lost, will likely never be regained, because the chain of events that created them in the first place can't easily be replicated. If you realized how valuable those things are you'd be more careful about risking their loss.
+
+That will be the Grass Valley Company's and the Grass Valley areas fate. Not horns, but location. How the company came to be in the town of Grass Valley is a major theme of the book. It took a lot of random events, and a few lucky decisions, and breaks. It won't be back. It became a citizen of globalism. When you bring together companies that each had a standalone infrastructure, a best of breed mentality can take over. Who of the "group" manufactures the best, and most economically, where is the expertise for various engineering functions located? Where are they the friendliest towards business? That would not be California!
+
+As we have seen there were a number of companies that came under the Grass Valley canopy that knew how to produce television routers. You did not need those folks to all reside in a high tax state, an hour and a half from a major airport, with all roads to it only two lanes for a good portion of their length.
+
+Even the original company's legendary prowess with production switchers did not mean others could not develop to be worthy competitors, as SAM did in the U.K. It was that talent located in Grass Valley that kept a presence in the area as long as it did.
+
+**********************************************************************************
+What could have the area done differently if anything?
+Who did the most damage or provided the most impetus for the Group leaving?
+Tek, Thomson, Francisco, Belden?
+Was Gooding the most benign?
+**********************************************************************************
