@@ -75,3 +75,77 @@ When the Group finally got serious in 1984 about creating their own DVE, what ev
 https://www.lomaricatv.com/preview/chapters/graphics/kscope%20cp.jpg
 Kscope control panel
 
+While the Group had experience with digital circuits to control things this was its first digital video project. While the company did bring new grads in that had exposure to treating video as digital numbers, it also brought in a number of engineers from the BBC. The British were generally leading the way, followed by Sony, in digital video technology. None-the-less, there was a steep learning curve. Video processing is quite different in the digital realm. Whereas analog video filters consisted of inductors, and capacitors, and maybe some active components, filtering in the digital domain was done in banks of shift registers with varying amounts of recursive feedback. Digital Signal Processing, or DSP as it is known.
+
+The other thing that made this more doable as the group's first digital video project was that it simply took in analog composite video, sampled it at about 13 MHz/sec, and then performed whatever magic was required. But simply doing this did not alleviate the inherent problems of mixing the black and white information with the color information, which composite video was. Even at this time there was a better analog way of handling the color and black and white information. It was known as component video. The color and black & white information were kept separate, and therefore did not interact with each other. The BBC and Sony were already working on systems that did the same digitally. The group was slower than most to digital, and as we will see slow to embrace component digital over composite digital.
+
+All the hardware thrown at the goal made each channel of the Kscope DVE about 20 rack units high (about a yard), and each channel consumed 1600 watts of power. The cables from the power supply to the backplane motherboard for each channel were double aught battery cables. The Kscope was forced to use super-fast TTL and some ECL logic. To keep the size of the boards semi-reasonable, and to minimize propagation and timing issues the boards were exceedingly dense with components. Birney Dayton pointed the designers to Intergraph, who had a point to point wiring system from Kollmorgen (KM). Multi-layer boards were in their infancy at that point. The KM Machine would make as many layers as needed. It would stitch wires across the board, the wires were insulated. It walked across boards, daisy chaining connections and Electro bonding each connection. It hooked up a wire and welded it to the pad at the other end. The whole process was much like vector plotting. Intergraph ended up manufacturing the Kscope's boards.
+
+A novel idea the group came up with was to be able to have multiple control stations, with each able to take control and use one or more channels. The system control was designed to control up to eight channels. Each channel had the equivalent processing of 16 of the most powerful processors of the day. With all that the Kscope could never quite duplicate the ADO's Coke can effect.
+
+Another issue was the frame itself. It was designed using off the shelf aluminum studs, ribs, and tubing. Assembled much like an erector set. It became obvious to anyone who ever had to replace each channels cooling fans, there were 18 of them prone to failure, that the fans were the first items in the frame to be installed. This is because to replace fans the technician had to completely disassemble the frame into over 100 pieces of miscellaneous hardware. It could be disconcerting to see a $150,000 Kscope channel reduced to a stack of boards and a pile of aluminum parts.
+
+The Kscope was introduced in 1986. The fact that Ampex had a five year head start, limited the Kscope sales. It was almost as capable from an effects standpoint as the ADO, and more capable as a facility wide system that could have channels of it assigned on the fly to different control rooms gave it a fighting chance. In reality the largest systems never had more than four channels.
+
+https://www.lomaricatv.com/preview/chapters/graphics/kadenza.jpg
+Within a couple of years the Group redid the control panel for the Kscope so that it appeared like a normal production switcher panel. It was called the Kadenza. Both the Kscope and Kadenza were digital composite systems. Again that is video where the color, or chroma information and the monochrome or black and white information was mixed and processed together. The world was already leaning towards component, keeping the two sets of info separate. The bottom line was that component made for much better quality video.
+
+An advancement with the Kadenza was that it would accept 8-bit parallel digital video directly into and out, whereas the Kscope only accepted analog video. With the ability to accept parallel digital video (thick cables with a pair of conductors for each of the 8 bits) Kadenza could be considered to be the Group's first digital switcher. But parallel digital video, with its thick cables never took off except in very niche situations.
+
+The Kadenza was sort of a hybrid between a DVE and a switcher. It could combine up to five Kscope channels with conventional switching capabilities. Expanding on the multiple control panels accessing a common pool of channels, the Kadenza allowed a number of control panels to access any combination of channels. NBC used the Kadenza at the 1988 Olympics.
+
+As mentioned the initial plan was to involve enough state of the art hardware, which was controlled by firmware, so that eventually the software would catch up and completely match or surpass the ADO. From the beginning the software folks ran most of the project, and in a few ways the hardware was not fully developed, it generally evolved based on the software groups perceived needs.
+
+In 1989 the Groups second DVE entered service, the DPM-100 (Digital Picture Manipulator). It was geared for smaller markets and production situations and came with a greatly lower price. That year the Group introduced its last analog switcher, called the Diamond.
+
+<h4>3000/4000 GVG&apos;s first Digital Switchers</h4>
+While the Kadenza, in a way, was the Groups first digital switcher, it was really an outgrowth of the Groups first DVE, the Kscope. It was also meant to be a post-production switcher. In response to Sony's introduction of their DVS-7000 the Group went to work on a competitive project. To do this quickly and efficiently they took the Kscope architecture and interfaced it with a more traditional control panel.
+***************Did all marquee switchers that followed all have built in DVEs?************************
+
+Up until Sony entered the switcher fray, people thought GV was eclectic, now some customers were starting to think GV was just weird. A reason for this was that as mentioned the world was leaning towards component video, and Sony was the leading pioneer towards this path. Grass Valley, which was now at least thinking digital, still held on to what was known to them, composite video.
+
+https://www.lomaricatv.com/preview/chapters/graphics/3000%20cp.jpg
+First GVG "digital" switcher
+
+The 3000 was a big step forward for the group as it no longer required the thick multi-conductor video cables, the digital video into and out of it traveled on a single coax cable, just like traditional analog video did. It was a clean sheet design and it was designed to directly take SMPTE259 signals, the standard definition Serial Digital Interface (SDI). But these were not the component digital flavor that the Sony 7000 handled, but composite digital signals. Whereas the Kadenza could take composite parallel signals, known as SMPTE244, the 3000 would handle composite SDI over a single coax cable. The SDI standard could handle both the 143 Mb/s composite, and the 270 Mb/s component signals. The higher bit rate that component consumed down the coax cable than composite did was an indication of the superior quality that component brought compared to composite.
+
+https://www.lomaricatv.com/tech%20boxes.html#hifreqs
+High Frequencies
+
+Today it is component video from camera to your home receiver. In the late 80s not all were sure that component would win the day. Many thought that like NTSC, and PAL analog formats, where chroma and monochrome are mixed together, would be a straighter approach forward. CBS, like GVG, took a contrarian approach to the concept of digital video and pushed for composite digital. CBS had vigorously fought against the original NTSC color approach in the early 50s. Now they had differing opinions on how digital should proceed. In fact in 1988 a standard for recording digital composite was issued, and that format became known as D2.
+
+https://www.lomaricatv.com/tech%20boxes.html#d1d2
+Digital component verses composite signals
+
+When it came time to launch the 3000. Any hope that it would go smoother than the 300 launch proved to be wrong. A bit of the problem was that the Group still was not fully committed to digital, let alone, which flavor. The company was still contemplating another analog switcher, as that was its comfort zone. While digital video makes somethings easier, somethings it did not. The design of analog filters and mixers were not in the first category. Both composite and component reduce video to a number sequence. Often that meant that mixing and filtering often involved mathematical processes. The Group had to end up using ASICS (Application Specific ICs) in their design. An expensive and time consuming process. As already mentioned a problem GVG had in designing ASICs was that instead of the most advanced modeling tools they used tools that Tektronix already had.
+
+While the 3000 was the first GVG switcher that employed multiple microprocessors, there was much disagreement with how they were being used in a hierarchical manner. Many thought from a processing standpoint the switcher ended up being under powered. This was born out after its launch as customers were not happy with the 2 to 3 frame delay for a source being selected on the control panel and the switcher actually cutting to it. This actually ended up hurting the production of a "People's Choice' award show that greatly angered CBS. Part of the problem was that some in the Group thought they were building a post-production switcher, and that the company was not talking to customers early on. As development went on the company needed to reposition the 3000 as their flagship offering. Something it could not do well. The market, and finally the Group itself realized that it was late to digital and had to deliver something competitive soon.
+
+When the 3000 showed up at NAB in 1991 it required five hidden Compaq 386s to make it appear to work. The rouge worked well enough that a high-ranking Sony official looked at the switcher and exclaimed it was the switcher they should have built. Little did he know.
+
+It turned into a software project the likes of which the Group had never seen before. There were 16 software engineers and only four hardware engineers working on it, Bruce Rayner, John Apt, Richard Bannister, and Brian Dunbar. Bannister had his hands full developing the ASICs that the switcher required. Sophia Day was the project manager. All the technical folks involved were surrounded by constraints stemming from waiting too long to realize where the industry was going. There were complaints that the project kept changing course, not only from management, but from the engineers involved also.
+
+When the GVG 3000 shipped it was 95% complete. The problem was how do you deal with the 5% that's left with the customers staring over your shoulder? This is exactly what happened with the 300, and now the 3000. Sony now appeared to be the leader in the very area that had defined the Group. This was the first of the Grass Valley Company's nadirs.
+
+https://www.lomaricatv.com/preview/chapters/graphics/richard%20bannister%20del%20yocam%201993.jpg
+1993 - Del Yocam, then President of Tek presenting engineering award to Richard Bannister 
+
+Immediately the Group went back to the drawing board and went to work on the future, a clean sheet digital component switcher. They even had Dave Hershberger design the Groups own SDI transceiver chip set. Richard Bannister was this projects Program Manager. Bannister was a veteran of the hybrids, the 300, Kscope and Kadenza, and the 3000. While this project went far better than the 3000 it launched in 1992 with reliability problems.
+
+The company was in dire straits from 1991 through 1993. In 1994 Tektronix sent down Dan Castles to straighten the situation out. He flew into San Francisco and got on a company plane for a 45 minute flight to Grass Valley. There was also another passenger on the flight. Dan asked his fellow traveler what was bringing him to visit the Group. He said he was with NBC in New York, and he said that he was going there to rip the current GV President a new asshole. Then he asked who Dan was. Dan said, "I'm Dan Castles, and I guess I'm getting a new asshole." NBC had committed to the 4000 switcher and it wasn't going to be ready as promised.
+
+The next day at the meeting Dan said to the NBC guy, "We got an hour, here's all the people who are involved. If you want to go "New York" on them go ahead, but it won't make any difference." That settled the visitor down a bit, and he simply asked if it worked well enough to be shipped anyway. Engineering said it was at 95%.
+
+For the first six months that the 4000 was being shipped, Dan apologized to customers and put action plans into place.
+
+Fox was doing one of their first big events, the World Cup. They were doing a dry run for Rupert Murdoch, and as he walked in the switcher went down. If it had been a real show it would have been a disaster. So engineer John Gerowwas SP? was shipped back to babysit that switcher during that event. He couldn't do anything, but he was there for someone to beat up. 
+
+Once the issues were fixed the 4000 became a very popular switcher. The Kalypso was the follow on to the 4000.
+
+https://www.lomaricatv.com/preview/chapters/graphics/last%20stand%20alone%20dve.jpg
+1200 - Last stand alone DVE *******************Year?*******************************8
+Soon DVE's were no longer stand alone devices. They became a part of the switcher, as did the still store.
+
+In the mid-90s Tektronix and the Group found itself defending too many market segments, and most of them not well. It was now facing increased competition in it&aois;s switcher, router, and as we will see a bit later, now in the video server markets. Both Tek's test equipment and the Groups video equipment had high capital development costs in hardware and in the user interface. Tek was starting to think it was not getting the return it wanted from Grass Valley. At one point there was even questions about if the Group was an asset in decline.
+
+
