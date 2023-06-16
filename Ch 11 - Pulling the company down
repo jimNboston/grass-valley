@@ -1,0 +1,77 @@
+<h1>Chapter 11 - Pulling the company down</h1>
+<h2>Late to the 3rd revolution</h2>
+<h3>Slow to Digital</h3>
+Digital video reached critical mass in the 90s, but it had been around for 20 years. The BBC did some of the earliest research into digital video in the mid-70s. But digital video had been making inroads into products at that time. The first area was digital control systems for products. Those started to show up back in the 60s, and by the end of the 70s analog controls were giving way to digital Boolean logic, and the use of ICs.
+
+Another major development that pushed digital control forward was the development of the first microprocessor by Intel in 1971. By the end of the 70s there were a number of well known, at the time, microprocessors from a number of vendors. One that really took off was known as the 6502, which found its way into early Atari, and Apple products in 1977. While the first microprocessor, the 4004, was four bits, the 6502 (introduced in 1975) and a slew of others soon touted 8-bits. By the end of the 70s Motorola had a 16-bit microprocessor.
+
+About this time microprocessors started to find their way as the central control systems in television products. RCA produced the first computer operated and setup camera in 1979, the TK-47. It used an 8-bit RCA Cosmac 1802 microprocessor. Even this early, and many claimed, not very capable microprocessor, allowed the camera to do things none had done before. Using a computer within allowed the camera to not only setup itself up in a minute, but allowed for much finer adjustments, and a lot more of them, then was possible before. While there were a couple adjustments that humans could do better than the automatics, it would get those adjustments close.
+
+https://www.lomaricatv.com/preview/chapters/graphics/tk-47.jpg
+RCA TK-47
+
+But when it came to registration, required of image tube cameras, but not in the coming CCDs, the automatic system was hands down better than any human. The author once watched a video operator attempt to manually setup a TK-47 at a Paul Anka concert in the 80s for ABC, as he said he did not need to rely on any computer to do his job. He worked hours to setup the four TK-47s in use. As the show time got close the producer was yelling at the engineer in charge about why all the cameras looked so bad, and they did. The engineer responded that if he was allowed to touch the camera controls he could fix it in minutes. Being a union situation a standoff occurred. As the show got closer the union steward finally realized that the show was in actual jeopardy if the situation remained unchanged. In addition the engineer reasoned that while he could not operate the camera controls, it was his job to fix broken cameras. Finally he was allowed. It took 6 button pushes and about two minutes. The cameras were fixed!
+
+https://www.lomaricatv.com/preview/chapters/graphics/ldk-5.jpg
+In 1982 Philips, who's camera line eventually became part of the Group, produced their first microprocessor controlled camera.
+
+Other digital building blocks were starting to emerge around 1980. A big one was the Ethernet, and the IP protocol, which was being developed by a consortium that included DEC, Xerox, and Intel. Actually Xerox had been using a proprietary version in some of their machines since 1974. At the time it ran on coax and was used to eliminate bundles of control cables between large copier subsystems, with a single cable. Eventually the interconnect cables between switcher control panels and the central electronics frames were replaced by the modern iteration of Ethernet, "cat 5" cables.
+
+As we will see, most facilities evolved into digital one island at a time. With equipment that was digital internally to begin with. Eventually keeping it digital as video traveled from one box to the next. In time the islands became a "continent." In a way the same thing happened to the Group. In 1984 they bought their first subsidiary, Dubner Computer Systems. Dubner added character generators, and video paint box graphics systems for television to the Grass Valley Group product line. Dubner Computer systems had multiple products from Credit Union software to lottery systems, along with hardware and software products for the television industry.
+
+https://www.lomaricatv.com/preview/chapters/graphics/dubner.jpg
+The founder, Harvey Dubner (right) was an engineer and mathematician who was noted for his contributions to finding large prime numbers.
+
+https://www.lomaricatv.com/preview/chapters/graphics/dubner%20emmy%20tech%20week.jpg
+He worked closely with a Canadian company, Colorization, Inc to develop software for his animation systems that would allow it to colorize black and white movies and programs. In 1986 Dubner was presented with its second Emmy for its work advancing the process. This was one of the first digital islands within the company. But we will see shortly that it was not the only one. The Dubner brand was eliminated in 1991.
+
+<h4>The first digital boxes</h4>
+Because of the fragile nature of the color signal in the old analog video systems, VTRs presented a heightened problem because of the mechanical nature of VTRs. While there was a trick that fixed the problem, as we saw in chapter 9, it lowered the video quality, by producing what appeared to be "fuzzy" color. Actually the heterodyne process, as it was known, made the color stable, but not the black & white or monochrome part of the signal. Since the TV receiver locks to the monochrome, it gives the appearance that it is the chroma that is fuzzy. But the heterodyne process was not allowed by the FCC to be transmitted by broadcast stations.
+
+VTRs were an early beach head for digital video technology. To begin with Sony as early as 1977 began research into recording video on video tape as digital information. A lot of the future standards adopted for digital video were worked out during digital VTR research. An important one was what would be the sampling rate for turning analog video into digital data. It was a tricky proposition, as the three predominant analog standards at the time were NTSC, PAL, and SECAM, all with different color subcarrier schemes. Eventually the common denominator sampling rate was determined to be 13.5MHz. The Consultative Committee for International Radio (CCIR), now the International Telecommunication Union produced Recommendation 601. Standard definition digital video went by a number of monikers, one was simply 601. The video recording format that used 601 became known as D1.
+
+There is another reason digital video was associated with VTRs. VTRs recorded and recovered video information using a mechanically spinning head. As such, these devices were continuously running a little faster or slower than desired. This velocity error, as it was called, would play havoc with video timing, especially for the color subcarrier embedded in the video. This was caused by the fact the scanner and capstan can never exactly duplicate the exact conditions found when recording or match the playback video to "house" video, which is used as the external video reference. To even out the playback, the video was converted to digital, marched into memory at the varying rate it was arriving in from the VTR, and marched back out at a steady rate that matched the required timing of the facility housing the VTR. This device was known as a Time Base Corrector or TBC. Before this, elaborate banks of electronics with lots of variable capacitance were used to produce adjustable delay lines. These pre-TBC subsystems were large and very finicky, and only had a small correction window.
+
+In 1975 a company called Consolidated Video Systems offered the first digital TBC. Technology had gotten to the point where memory was cheap enough, the components to convert video from analog to digital, and back again had gotten fast enough to handle analog video.
+
+https://www.lomaricatv.com/tech%20boxes.html#tbc
+More on TBCs
+
+A signal coming in from an outside source, satellite, microwave, the network, etc. while very close in frequency, if not exactly the same as yours, and they never were, than you could not use it in any effect. Even if the signal was at the exact same frequency, it would still be out of time with the local signal, as much as 524 lines.
+
+So a news microwave truck out in the field to do a live report, even if it could lock to the stations signal, it still would be out of time due to the propagation delay from the truck back to the station. The fix up until then was a bad one, lock the whole station, called genlocking, that is lock your sync generator reference to the signal coming in. Worked, but all the stations sources would hiccup every time the station went into genlock, and again when coming out. Any VTR that was in record would come unlocked and depending on the generation of VTR, could take four or five seconds to relock. A big disturbance in the video. Thus there was a market to fix this, and what is called the "frame sync" was born. That is it took a whole video frame and locked it to the station's reference.
+
+Soon it occurred to engineers that you could start to manipulate the entire digitized picture. In 1979 Vital Industries filed for a patent to do just that.
+
+<h4>DVE's</h4>
+When digital effects first burst onto the scene with Vital Industries' Squeezoom Digital Video Effects, or DVE, around 1980, production changed forever. While the Group was still struggling with the 300, which would also greatly change production, they were squarely still in the analog realm, while others were launching into the digital realm.
+
+Until then, it was not possible to manipulate the size of a frame, let alone perform dynamic effects on it. The Squeezezoom did just that, it could squeeze a whole frame of video into a smaller size and position it anywhere on the screen. That video could then be keyed over another video source. It could also zoom into video and enlarge a portion of the video frame. This was not used much because analog video rapidly looked bad as you enlarged it.
+
+Yes, this all seems rudimentary now as video is easily manipulated on any desktop or laptop with $49 software. But back then 16-bit microprocessors where the norm, with 32-bit ones just arriving on the scene. The high end ones employed under 70,000 transistors and ran at clock speeds of 10 MHz. Today, run-of-the-mill microprocessors bring hundreds of millions of transistors to bare and run well over 1 GHz. Today microprocessors can handle video, magnitudes of order in quality above what was available then, and in real time. Throw in desktops with dedicated graphic processors to assist, and what is inexpensive and common place today, was astronomically complex and expensive then.
+
+Long time television engineers at the time were dumbfounded when they first encountered the DVE. Many an engineer that was involved in installing these devices took delight in revealing what the devices could do to unsuspecting co-workers. Such as flopping the picture fed to a monitor, either vertically or horizontally. When the co-worker would exclaim in surprise what they had seen, the picture would them be flipped back before they could bring it to someone's attention.
+
+https://www.lomaricatv.com/preview/chapters/graphics/dve%20effects.jpg
+Two channels of DVE. Today trivial, then it took hundreds of thousands of dollars to pull off
+
+Previously, the content of a picture could only be composed of layered elements, principally keys and backgrounds. Digital technology, namely the creative use of computer memory, enabled the active picture to be resized and repositioned. Vital was not alone for long.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ampex%20ess.jpg
+
+Ampex, the video tape folks, while pushing VTR technology along, had also designed and built their own TBCs, as Sony was doing, to support their VTRs. Thus they were cultivating digital video engineering and design. In 1977 they came out with the Electronic Still Store or ESS. At that time if a broadcaster wanted to show a still photo, either they needed a slide projector as part of a film chain or they had a video camera shoot a card on an easel. ESS combined the frame sync with computer high density storage to produce an electronic slide projector. Seems trivial today. Was not then. It also could record and playback sequences of video frames forwards and backwards at varying speeds. Again today, so what? Then, WOW!
+
+https://www.lomaricatv.com/preview/chapters/graphics/ampex%20ado%20cp.jpg
+
+A year later Ampex introduced the first video paint system with a tablet and pen that allowed graphic artists to paint on an electronic canvas. Then a year after the Squeezezoom debuts Ampex launches the Ampex Digital Optics or ADO, a DVE, that while a year later then the Squeezezoom, was a full generation more advanced. It was the start of a DVE progeny, that would greatly affect the Group when they got serious about building their own DVE.
+
+https://www.lomaricatv.com/preview/chapters/graphics/coke%20can.jpg
+Soon Ampex had advanced from not only doing 2D moves and effects, but full 3-D, including page turns and mapping onto solid objects. At a NAB in the mid-80s Ampex demonstrated the effect of taking a flat Coke can graphic and rolling it up into a can shape. Ampex started offering the ADO that could manipulate and combine multiple sources at once.
+
+When Vital and Ampex were launching their DVEs respectively, the Group decided to OEM a DVE that NEC had launched. The only electronics the Group added was the control panel and its interface. While it had the Groups touch and feel, the bulk of the sales revenue went to NEC and not the Group.
+
+When the Group finally got serious in 1984 about creating their own DVE, what eventually became known as the Kaleidoscope, shortened usually to just Kscope, the design team was given carte blanch to develop the best box they could. An immediate problem that cropped up was that the control group was at Bitney Springs while the video processing group was at the airport. The company had not quite figured out whose product it would be, PSD or BSD. Another problem was that Ampex had already boxed the Kscope design in with patents. To get around some of that the designers ended up having to throw a lot of additional hardware at the problem.
+
+https://www.lomaricatv.com/preview/chapters/graphics/kscope%20cp.jpg
+Kscope control panel
+
