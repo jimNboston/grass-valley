@@ -183,3 +183,297 @@ Years ago, "turnkey" facilities would often be built for a station, that is a sy
 From the station managing their own software running on someone else's server, to lights out, everything is managed by someone else. The facility is simply a client or user. These services mean that even if the users are in their office, they are in effect remoted into their workflow. Better hope nothing affects your connectivity or brings the internet crashing down. Later on in this chapter we will look at the SaaS model much more closely.
 
 As already mentioned during March and April of 2020 the cobbling together of new ways of doing things was centered around cell phones and laptop cameras, often one or the other functioning in dual capacity. They often simply setup Zoom or Skype type calls, or video conferences. In many cases back at the facility a PC that was part of the session simply fed its desktop display out into the facilities video and audio infrastructure and it went to air. A couple of companies in Grass Valley are instrumental in facilitating this.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-14%20reporter%20from%20home.jpg
+Reporter working from home
+
+While what is shown here could all be accomplished using Zoom, there is software that is available that allow additional attributes that are usually needed for anything but a very rudimentary TV production.
+
+The biggest hurdle in all this is "comms," communications between crew members. This system was traditionally referred to as intercom. High end ones allow many groups of people to set up their own party lines. Some would need to be on multiple party lines at once. The producer and director might need to talk to multiple groups at once. Many crew members would only need to talk and hear from a single group. These systems, quite simple in the distant past, were now extremely sophisticated. Many now use VoIP.
+
+Specialized software allows separate intercom conversations that others do not hear. Imagine watching a program where you also heard the directors, and producers queuing talent! Or a technical type trying to solve a last minute problem. Most professional production facilities have intercom systems that can host dozens of separate conversations.
+
+This software has host and client versions, where a director, producer, or technical manager can setup and control the various conversations, and a client simply hears the conversations that they need to hear.
+
+This system proved not to be so readily duplicated in this distributed environment, at least not to the elegance that had become expected. Initially multiple Zoom, Skype, or WebEx sessions were set up. Some reverted to a combination of audio and software that allowed instant texting between computers where you could filter out messages not meant for you. Both approaches were hardly optimal. Very soon broadcasters discovered several streaming apps that allowed multiple audio channels on smart phones. Crew members could now use their phones as intercom stations. In short order these apps started being ported to PCs. The loss of comms can be a big deal and grind a production to a halt.
+
+A second half of intercom is what is called IFB. Some say it means Interrupted Feedback, others say Interrupted Foldback. Either way it is program audio that is sent to the talent, minus the talent's own voice, so that they can hear what is going on, such as when the anchors toss the story to them. It is called Interrupted feedback because the producer can interrupt that feed and give the talent cues. The audio mix that the talent should hear does not have their voice included because of processing delays.
+
+Ever try to have a phone conversation when the phone companies echo canceling is not working? It's hard to do. When you see a reporter on location that very deliberately and demonstratively pulls their earpiece out of their ear, it is usually the universal signal that the audio mix contains their voice. The person mixing the audio therefore must set up separate mix for each remote person talking. In many cases today, everyone is at a remote site. The total separate mixes, or stubs as they are known, now has gone up. Life is tougher for the person mixing the audio, especially if they are doing it remotely from the physical audio mixer.
+
+Also tally's; The red lights that come on a camera when it is going to air, or the light in the studio that indicates that the studio mics are "hot." Two of the worse things that can hamper a television production is the loss of intercom, and tally's. So while Zoom is great for normal teleconferencing, it usually will not fly if you need to seamlessly pull off a production using multiple sources and people that needs some "out-of-channel" control.
+
+During the pandemic talent started to receive rudimentary sets. Such as large green displays to allow rolling backgrounds to be inserted behind close-ups of the talent. The ubiquitous bookshelf was growing old as a backdrop. Light kits were often sent to reporters and talent with instructions on how to do basic three-point lighting. This consisted of one light as a spotlight to highlight the face, and second off to the side to fill in shadows, and one as a backlight. The backlight is often overlooked, but it greatly enhances the appearance of some depth with light across the shoulders, so the talent does not look like they are plastered to the backdrop behind them. Next audio processing and equalization equipment was sent, again with instructions and phone support to ensure consistent audio levels, from the talents home.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-14%20multiviewer.jpg
+Multiviewer application
+
+
+From there things kept being added so that the talent's home studio performed more like a real one. Additional PC's were sent that acted as a teleprompter, which was controlled remotely by an operator. PC's with multi-viewer software showed up. These enabled the display of multiple sources on a single PC screen. This allowed the talent to see the on-air feed, and other sources, such as other people taking part in the program.
+
+Something called PC over IP, or PCoIP, was also employed. It allows for the sharing of a remote desktop with others. This technology is optimized to create little latency, important for live TV. This allowed talent to share content with others, and the central facility to send content to talent.
+
+Besides doing so for the talent, the stations would replicate the multi-viewers video that fed the control room monitors and send it to the various operators so they could see various sources needed for them to perform in sync with others to produce their part of the program. Thus allowing each remote operator, or artist to see the same content as available in the live control rooms at the studios.
+
+Editors were set up a couple ways to work remotely. Either they had local versions of editing software on their PCs, where they would download raw material, edit it down, and upload back their completed story, or they remoted into the stations media asset management system and their local computer acted like a terminal or thin client that manipulated the media remotely.
+
+In the days of video tape, edit lists, that is the list of edit points, would often be created "offline" using copies of the media on less expensive VTRs. Once complete the list would be run automatically on the expensive, high quality VTRs, producing the final to-air copy. Today low-resolution copies of media are often quickly downloaded to an editor's PC, an edit list produced, and sent back to the online system at the station for use with the high resolution media. These low-resolution copies are known as proxies.
+
+Often high-end video servers, which are the heart of these central editing and asset management systems, do not actually compile the selected clips into a new file. They, on the fly, jump between segments in real time orchestrated by the edit list when the story is played back.
+
+Video Servers and file manipulation are a substantial part of what the equipment vendors in Grass Valley area offers. As workflows change, a lot of what evolves and falls out will come from the area.
+
+<h3>Sports</h3>
+But while news is now about the only live TV produced locally, as many stations today look at the rest of their programming as interstitial fill to their newscasts, the other 800 pound gorilla of live television is sports, and it got knocked out for a while. This halted the flow of billions of dollars through sports, among fans, networks, and leagues. NBA playoffs account for $600 million in advertising for Disney-owned ABC, and ESPN, and Warner Media owned Turner. March Madness, broadcast by Turner and CBS, brought in $910 million in ad revenue in 2019.
+
+This caused financial tremors all down the food chain. With NBA's television contracts, those familiar say there is not much latitude for a distributor such as Comcast to say to an ESPN or Turner that it is reducing carriage fees because the NBA playoffs were scrapped. While most cable channels get a few cents per subscriber per month, ESPN charges over a hundred times that. Fallout from lack of content might cause viewers to respond both to the immediate situation and to a potential economic slowdown by dropping their cable subscriptions, accelerating "cord-cutting," the practice of dropping cable, and using only the Internet to stream programming. In TV jargon it is called OTT, or Over-The-Top, which means using the Internet, often provided by a cable company, but not using their cable TV service that rides on the same path.
+
+Losses occurred up and down this food chain. Sports leagues, rights holders, the companies that provide the necessary facilities (very few rights holders, i.e. networks own their own remote technical facilities today), cable and satellite distributors, and the people who crew these events have lost many billions of dollars. Post pandemic, the lowering of costs will be a must.
+
+As mentioned, REMI remote production eliminates the need for large mobile units and crews at the event venue itself, creating a safer environment for production staff by ensuring that social distancing guidelines can easily be met. REMI means broadcasters and leagues can centralize production at their home studios or a dedicated third-party location with minimal crews onsite. The main ingredient to make this approach work are paths with the bandwidth to move all the video and audio captured on site back to the production control rooms.
+
+As shown earlier in the graphic with the large remote production truck, the traditional setup would be typical of a baseball, or basketball game done for a local market. Monday, or Sunday Night Football type events could see a posse of a half dozen trailers of this size to support all that goes into those events, forming a compound that could comprise a dozen or more large trailers for ancillary support and operations when the final tally came in. The Super Bowl: A magnitude larger as it is not a single large event but actually three. There are different trucks for the Pre/Post Game Shows, not to mention the half-time extravaganza that is treated as its own separate show. The Olympics: three or four dozen trucks spread out to cover the various venues. On top of that effort, there are temporary technical centers and studios to tie all the feeds together and offer them to the myriad of networks from around the world airing the games.
+
+Technology is now capable of gathering up all the source signals at a venue; mics, cameras, etc. and transporting them back to be processed for air somewhere else. Instead of dozens of people at the venue, much fewer. Camera robotic technology is now such that most camera shots can be controlled from a far.
+
+Now there will not be a need for all those people and equipment, maybe a single truck the size of the satellite truck might be enough, plus maybe a utility truck to house all the cameras, lighting and other equipment needed outside the truck on site.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-15_cams_side_by_side.jpg
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-17_eng.jpg
+This might be what the truck at the venue looks like
+
+Announcers might also give up their elite travel status on airlines as many games now also have them back at a central facility.
+
+It is estimated that with technology available today, if fully implemented, the cost savings to cover sports production could be 30%. This requires efficient compression, processing, and transmission equipment. All things that technology offers today. Many of these are solutions that are offered by companies in the Grass Valley area.
+
+Not that this is a major consideration when it comes to working out the new production business model, but a side benefit for crew members working these sporting events is enabling production crews to work in a home studio with reduced travel, which can impact the work-life balance of staff, making careers more sustainable. Skilled people who are normally unable or unwilling to travel constantly will now be drawn to working in the sector, widening the availability of good employees. Conversely, there will be less need for the number there were before.
+
+As mentioned, the film and TV industry worldwide experienced a near-total cessation of activity when the pandemic hit, with thousands of largely freelance crews laid off at short notice with little or no financial compensation. A great number of them worked on televising sporting events.
+
+Many production people who work in Hollywood or on sporting events are gig workers by nature. They are "below-the-line" workers, who usually work hourly instead of for a lump sum and are paid less than "above the line" roles like directors, talent, and producers. Like gig workers nationwide, these employees do not receive healthcare from these production companies and do not typically receive paid sick leave. The money can be good, but only if there is work. Hourly rates for what could often be 10-hour shifts ranged from around $130 for production assistants to more than $400, often even $500 for more senior positions.
+
+A typical regional sports network might employ 50-70 people to cover the games they televise. Most of them are freelance. Even the large marquee sports telecasts, like ESPN's Monday Night Football, which was bringing about 250 people to the venue to cover the game, over 200 of them were freelance. With REMI the question is, how many will still be required in the future. Whereas most of the crew working on site at a venue would be dedicated to that one event for one or more days, now a single crew in a central control room, that's potentially a dozen or more people, can now do a multiple events a day.
+
+A constant in remote television production, especially sports, that will not change, is that producers always want more, for less. REMI might be another arrow in the producer's quiver.
+
+But let us look at a cautionary tale that might make some events much more expensive: the 85th NFL draft, which was to take place immediately after NAB at the Bellagio on the Las Vegas Strip in April 2020. Many involved with planning for the NAB were worried about the inevitable overlap between the two events. 600,000 attended the 2019 NFL Draft in Nashville. The hope was that since Nashville had more communities to draw from than Vegas, which in many ways is an island to itself, that many of those counted in Nashville went through the turnstiles more than once. The owner of the newly arrived Las Vegas Raiders, Mark Davis, said he expected the same number of attendees in Vegas.
+
+While Las Vegas has more hotel rooms than any other tourism destination, 86,000 on the strip, 150,000 in total, if the majority were coming from out of the area it is hard to envision those rooms holding three or four to a room. The crew logistics were going to be complicated. But then Vegas shut down. So, the hotel room situation got less complicated, but everything else got much more complicated.
+
+This event had become a major televised event for ESPN, which has its share of major events. The network does over 4000 televised productions on location in a normal year, remotes in industry jargon, and this was a big one, money and prestige wise. Forty years ago, ESPN approached the NFL with a proposal to televise the NFL draft. This was six months after ESPN went on the air in September of 1979. At the time ESPN had no programming from the major sports leagues and only reached 4 million homes. The network filled time with exercise shows, Australian rules football, slow-pitch softball and the like, but the network was an ambitious startup, and no idea was too outrageous.
+
+The NFL owners were dead set against it. "There was absolute unanimity in all the ownership that they did not want this to happen," recalls Jim Steeg, the NFL's VP of special events at the time. "They were afraid that the agents would dominate the draft, so they said no." Pete Rozelle, the commissioner of the NFL placed much importance on the television medium. Rozelle brokered the league's first major TV deals in the '60s. He championed NFL Films and oversaw the franchise it created, and he partnered with television legend Roone Arledge to come up with the wild idea of regular Monday Night Football. So, 10 years after the birth of Monday Night Football, Rozelle was ready to champion another out-of-the-box idea, and he did not care that the owners had just told him no. He gave ESPN the green light to proceed.
+
+Over the years the draft show went from an internal NFL function to draft players, where a bunch of guys talked to potential draftees over the phone, to appointment TV. Today ESPN reaches over 200 million homes. In 2019 nearly 50 million viewers watched.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-19_goodell.JPG
+Roger Goodell
+
+The 2020 NFL Draft was supposed to be one of the most elaborate productions in NFL history with the league ferrying players via boat to a stage on the Bellagio fountain, but that pageantry ended when the event became a "virtual draft" due to the corona-virus pandemic. No Las Vegas, no live audience, and no boats.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-20_espn.JPG
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-19_goodell3.JPG
+
+Both ESPN and NFL Network went live with the first round on April 23. The ESPN's anchors were at the network's studios in Bristol, Connecticut. Players, coaches, general managers, analysts, and NFL Commissioner Roger Goodell were in their homes. Goodell reportedly announced the first-round draft picks from his basement.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-20_nfl_draft2.JPG
+
+To pull this off ESPN had to coordinate more than 100 camera feeds from nearly 100 different places for the draft. ESPN and NFL Network's production was done using a vast amount of technology. Amazon Web Services hosted hundreds of camera feeds through its cloud system, Verizon helped with connectivity and supplied more than 100 phones for communications, Microsoft worked with several teams to create virtual war rooms and Bose provided more than 130 headphones.
+
+The draft could be a watershed moment in media, said Michelle McKenna, the NFL's chief information officer said at the time. "This might impact the way we traditionally mix user-generated content with traditional media in the future," McKenna told CNN Business. She added that the league sent "tech kits" to those who will be on air during the draft. The kits included multiple phones, a light, a microphone, and a tripod stand. The iPhone production kit for the NFL Draft was sent to players, coaches and GMs, and a handful of owners.
+
+"Typically, in a broadcast situation, you have professionals that are curating and transmitting the programming. We are now having individuals create and transmit their own content," she said. "It's not going to be like having a high paid production camera operator in your living room. It is you. Well, you or your mom." Now you have NFL coaches sitting in their "teched-up" home offices announcing their selections in the draft.
+
+Pushing a lot of the production effort off on the participants might sound like a good deal. But it is more than offset by the fact that the number of individual feeds involved is much higher and spread across the country. This might be the future of many reality shows, this one being the truest example, according to Trey Wingo, ESPN's host for the draft. He also made another poignant observation. "Suddenly the IT guy on your team is the most important member of the entire broadcast."
+
+We might now be in an age where contestants on musical competition shows perform in their living rooms instead of on sound stages with cheering fans and a blizzard of lights and confetti, distributed television production, shows done from nowhere and everywhere.
+
+<h3>The new reality, at least for now</h3>
+Remember that many television production crews have three different sets of employees: people who work for the company that is providing the production facilities, be it fixed or mobile, people who work for the client, be it network or other content producer, rights holder, and the freelance crew. Like all other businesses the media industry implemented a basic and advanced set of guidelines to combat the spread of the virus. The tricky part here is that the client paying for the facility, is also paying for the freelancers. Each client usually has different expectations and requirements, of not only the facilities, but the people they have on salary, and the freelancers they bring in. The production truck or equipment vendor has its own set of expectations for how their equipment is used and cared for.
+
+Typically, guidelines and protocols went like this: Like most other industries anyone who tested positive for COVID-19 would not have been allowed in, or in proximity to studios or mobile Units until at least 3 days have passed since recovery, defined at the time as the resolution of fever without the use of fever-reducing medications and improvement in respiratory symptoms and at least 10 days had passed since symptoms had first appeared, or 21 days had passed since the onset of symptoms.
+
+This led to calls for crews to be quarantined for some period before some shoots, either home or if at a remote site, in a common hotel. Their movement was restricted to the hotel and the venue. Travel to and from the venue was usually provided and monitored. Anyone who developed symptoms consistent with COVID-19 was immediately banned from studios or remote sites and sent home.
+
+In both buildings and mobile units, a label of "authorized personnel" was applied to crew allowed inside or in proximity of various production facilities. Authorized personnel are those who were deemed to have job duties necessary to ensure a successful production. Non-essential personnel, including family members and friends of personnel, tour participants, etc. were not permitted.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-22_safety6.jpg
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-22_safety4.jpg
+
+Of course, PPE was required. In the case of mobile units, authorized personnel operating inside the mobile unit, had to have PPE on prior to going up the stairs of the Mobile Unit. Even in the wide-open spaces at an outside venue many companies required PPE on at all times. Production equipment was usually mandated to not be handled by anyone not wearing PPE. Many companies treated used PPE as hazardous waste and it had to be disposed of in designated containers.
+
+Most vendors of production facilities, either mobile or fixed provided Plexiglas shields in between operating positions as customarily operators were not seated six feet apart. Client crew members were strongly encouraged to provide their own headsets and microphones. If that equipment had to be provided by the vendor, those expenses were billed back to the client.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-22_safety2.jpg
+
+Many vendors required everyone entering a facility, again mobile or fixed, to "log" their attendance each workday. This was to ensure that a COVID-19 positive test result could be contact traced. Some automated the logging by displaying a QR Code on each entrance and required the crew to scan the QR code one time daily into a smart phone app to ensure proper reporting. In some locals all employees had to answer health-related screening questions through a tracking system at the start of each workday. Employees who did not pass the screening questions were sent home.
+
+CDC distancing recommendations prompted some areas, such as production truck compartments, audio booths, and other confined spaces to only have one person in it at a time, even if in normal times the space could comfortably host more than one person. In addition, in some situations if a crew member needed to make a request for assistance from an engineering technician, they had to use the intercom, and not walk to the technician and converse in person.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-22_safety7.jpg
+
+Each crew member was expected to clean thoroughly his/her workspace after each event. Crew members handling any equipment such as cameras, tripods, mics, lights, etc. were required to wipe down all equipment with provided cleaning supplies prior to and after use. Some clients requested professional cleaning services before they would use the facility.
+
+Food and drink were banned from many places where it was allowed before. On many mobile units no luggage was allowed inside the Mobile Unit. Backpacks had to be contained in each person's assigned workspace in the mobile unit.
+
+One of the many potential problems with these scenarios is if someone did test positive, that could take the facility out of service until the space was deemed sanitized. This was not a problem as many fixed facilities were dark, and most mobile units were parked and not in use.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-23_support.jpg
+
+This was the reality for the user side of the production equipment. What about the equipment vendor side of the pandemic equation? Many of the constraints above also applied to our friends in Grass Valley, but they had a few added requirements. Like many other industries the majority of their support functions were provided via on-line support and the majority of the support personnel were provided all the necessary tools to enable secure connectivity in a "work from home" setting so that uninterrupted service could be provided to their customers.
+
+Support calls that required on-site intervention were handled by local personnel, if possible. Where travel restrictions made such service impossible, the customers were generally offered alternate solutions. Often a downed piece of gear was simply exchanged.
+
+To minimize any chance of not being able to supply customers needed replacement hardware, some companies segregated their manufacturing staff from others in the company.
+
+Like the rest of the world the new normal will not be as draconian, but like the travel restrictions enacted in the aftermath of 9/11, more stringent in how we interact in normal life. For quite a while into the future, the flexibility enjoyed before will be somewhat reduced.
+
+But what is certain to continue will be the workflow changes forced upon the industry that make economic sense, especially the REMI model. As we will see, the Grass Valley and Nevada City area will play an important role in pushing that story forward.
+
+<h2>SAAS</h2>
+As we have seen hardware is becoming more and more generic, and software is coming to be the delineation between different vendors products. As we have also seen, historically people are naturally inclined to pay more for something tangible, hardware of any sort, then invisible software, no matter what hardware the software is able to replace. Yes, some things cannot be done in software. Lens, camera tripods, displays, etc. But software is allowing these physical things to become smaller and lighter. Today's camera can internally fix a lot of the light aberrations that used to take much more glass to correct, so the lens can be built smaller and lighter. Partially due to software (along with IC advancements) cameras are smaller and lighter today. Thus camera tripods are now smaller and lighter also.
+
+A second aspect is that video quality, not audio so much until recently, used to be paramount. Now it depends on how it is consumed. On your 98 inch large screen display in your living room poor quality video might be a nuisance. On your phone not so much. Quality video, neglecting content, almost always costs more. Better equipment, more bandwidth, often more time and people. As was mentioned a short time ago, producers have one constant, they want more for less. They want better production options, and they do not want to pay more to get it. One way to get more for less is to follow the ancient axiom, "time is money." A show that requires lots of time, equipment, and people better have the financial support. Easy for most of the marquee events and programs. But there are far more second, and third tier programming were the margin is thin and anything unexpected can take it from modestly profitable to a money loser. Also there are 4th tier and lower programs that could make it to air if costs could be lower.
+
+Companies like Telestream have grown up allowing content creators and distributors to manage the tradeoff between real time and lower quality. Their systems allow the users to transcode, that is change a programs file or streaming content from one format to another, and to control the quality desired and how fast something can get distributed. News content needs to get distributed fast, while transcoding a feature length movie can be allowed to take the time needed to render the highest quality. Telestream is primarily a software company. It is grounded in software development, IT, and the cloud. What they do is allow extreme flexibility in how you store and deliver programming.
+
+Live TV is probably the last to be consumed by the IT revolution. Today live TV is mainly driven by news, but the advancements come mainly through sports. Like Telestream, the Grass Valley Company is rapidly becoming a software company.
+
+https://www.lomaricatv.com/preview/chapters/graphics/ch9-24_gvg_product.JPG
+High end Grass Valley Co. switcher control panel
+
+Besides the control panel shown here, there is usually a processing frame that can take up at least a third of a rack. The panel is what controls the electronics in the rack. In the future switchers, with the exception of control panels or other interfaces will reside in the cloud. The processing will happen in a private or public cloud.
+
+Things will get to a point where everything can be done in the cloud with the control panel being the only local part of the switcher. Today most clients would not touch one where the bulk of the electronics are somewhere else. But we said most, already there are on air programming that uses this radical, for now, approach. The cloud could house a generic bank of FPGAs, or GPU based resources. The design of the switcher's processing could be made to run on a number of hardware platforms; therefore you can scale as needed. They will be granular in nature and allow resources to be assigned to various activities. The actual hardware-software method will evolve to be whatever is the most cost effective.
+
+Even through the company still has a ways to go to totally become software centric, today software engineers at Grass Valley Company outnumber hardware engineers 3:1. Most software engineers are writing firmware. But electrical engineering has evolved to a point where even hardware engineers spend a percentage of their time writing script or code for Verilog or VHDL, which are hardware description languages used to model electronic systems. Over time the hybrid software-firmware-hardware solutions will become even more software centric.
+
+So the topology of future video switchers, and audio mixers for that matter, you will have the acquisition part, that is cameras, mics, etc. Then you have the cloud which is the domain of the Ciscos/HPs etc. It is there that most of the processing of video and audio will take place, but it also will be the transport part of the topology. And then you have the control end of the topology. This would be where Grass Valley Company, and other vendors, including a number in the area, impart their "value added." The control panel and other control surfaces might be the only hardware that the company provides. It is their software that will make this new topology act like the old one. With the total system spread out geographically, maybe globally, there might be some latency issues when something is initiated before it happens. Just like video quality inconsistencies many will just put up with it.
+
+Now you might be wondering why the organization and layout of the control panels would basically stay the same. Basic switcher control panel layout has not changed much over time. It mainly has gotten more crowded as features have been added. The simple answer is that a better way to handle dozens of sources, a myriad of effects, and constant last second decisions has not been presented to the maestros who operate these devices during live programming. That is the TD. Most things that do not need to be done in real time as the show unfolds is done like everything else these days, through a tree of GUIs. Items such as configuring the switcher to operate to the taste of the TD, building effects, etc. are done mostly with a keyboard and mouse.
+
+Internet IP is how the switcher will operate, from operator commands, to conveying video into and out of the switcher. Soon many cameras will use Video over IP (VoIP) right out of the camera. This first happened a few years ago when a camera was plugged straight into a modem in London, and the video was displayed in Japan.
+
+To quote Peter Suici in TV Technology from June of 2018:
+"While the IT world has embraced software as a service and relied heavily on the cloud for offsite storage, the broadcast world has remained more apprehensive about moving away from on premise hardware and onto cloud-based systems. However, the last several years have seen greater endorsement from the industry vendors in what SaaS can bring to broadcasters, who are now beginning to embrace the model."
+
+Software as a Service (SaaS) is essentially software that is not local to the user but resides on servers in the Internet cloud. The software does its stuff somewhere else in the world and not on your local computer. You have clients locally at your end that talk to the remote hosted software. As we have mentioned those clients might be simply software, but also hardware, mostly control panels and other operator "surfaces" that communicate with the remote software.
+
+This leads to the natural question; will others want to create clients to help the SaaS customer extend the use of the cloud software. Of Course, and as we will see the first to implement a robust SaaS product could end up being at the top of this new pecking order.
+
+**********************************************************************************
+Now to be able to create your SaaS service you will have to deal with another acronym, a Platform as a Service (PaaS) provider. They provide the software infrastructure on the web that you use to build, test, revise, deploy, host, and deliver your software product. Over the product lifecycle it also facilitates managing and updating your application. So you do the coding for your SaaS app and they do the hosting and delivery to customers. It provides software development tools, application programming interfaces (APIs) and code to help streamline application development. PaaS is SaaS to a SaaS. 
+*Is this correct?*
+***********************************************************************************
+
+Many of these providers are already well known in the software world:
+Amazon Web Services (AWS) Elastic Beanstalk
+Google App Engine
+IBM Cloud Platform
+Microsoft Azure
+Oracle Cloud Platform (OCP)
+Red Hat OpenShift PaaS
+Salesforce aPaaS
+SAP Cloud Platform
+There are many others.
+
+***********************************************************************************
+At the top of this "as a Service" pyramid are Infrastructure as a Service (IaaS) providers. PaaS providers come to IaaS providers to host the actual servers and associated hardware. Amazon, Microsoft, and the Chinese company Alibaba are some of the big players. 
+*Is this correct?*
+***********************************************************************************
+
+2013 saw the first SaaS launches. Early companies like Signiant offered solutions for automating the movement of media files. The goal was to automate the distribution process to get content from creators to content distribution sites. This concept was not new, as Telestream had products that would do the same thing, only Signiant's product was housed on the web, and Telestream's was locally installed software. Jon Finegold of Signiant said in 2018 that originally few saw SaaS benefits, but by then the concept was becoming intrenched.
+
+SaaS has become so enticing today because of its pay as you go approach. The typical content producer essentially eliminates their "equipment room," or "tech center," whatever the space that historically would house racks of equipment, and only keeps what equates to production control rooms. That is the spaces where the operator interfaces are, and the necessary people reside. Software now becomes the key component in accomplishing workflow. Karl Mehring, director of product management for playout at Grass Valley in 2018 said "We're starting to see broadcasters understanding the need for buying software in different ways. The driver is the move from a load of equipment to a 'pay as you go' model, and that is something SaaS can provide better than other options out there today. This has really been driven by the adoption of the cloud and SaaS in other industries, where there has been a lot of success with it," Mehring continued. "There will always be challenges with SaaS if you expect it to be same [as legacy broadcast equipment]. But that shouldn't be a reason to always do the same thing when this technology offers so many benefits."
+
+Another SaaS advantage is that a content creator and distributor can more afford to experiment. An idea can be tried and if the concept does not work the company has not lost a large capital expenditure. The old approach with onsite hardware, meant that equipment bought for a particular project might not be able to be repurposed for a try with another concept. Plus the time and money to rewire and re-organize racks of hardware for the next experiment. You would have to build the most vanilla of production systems to minimize the amount of re-configuring. That meant any projects that called for system architecture out of the normal workflow, was much riskier financially.
+
+The "pay as you go" concept is literally that. You rent what you need for as long as you need it. The business model has been around for a long while, but not with software, but with hardware. As we have mentioned earlier the original alphabet networks, ABC, CBS, NBC originally owned their own remote production vehicles (see REMi earlier in this chapter). Starting in the 80s these networks started to sell their fleets off to independent providers. These companies, NEP Group, Game Creek, Mobile TV Group, Dome, F&F, and others provide the trucks and equipment today, and the networks, along with other content creators and rights holders rent these facilities.
+
+The truck company does not provide the crew, the entity renting the truck (or multiple trucks) does. The truck company typically provides only a lead tech, usually called the Engineer-In-Charge (EIC), maybe a technical assistant, and the truck driver. The production truck company could be considered the SaaS in this case. Actually it would be more accurately described as Hardware as a Service (HaaS). Continuing along that line, while a few of the production truck vendors mentioned build their own production trucks, most have outside companies build them. That would make those vendors the Infrastructure as a Service (IaaS) providers. The analogy holds true in the fact that the IaaS providers in the software/web world actually buy equipment from vendors to create their infrastructure, just as the production truck builders would.
+
+These production trucks, depending on size and capability, can be rented by the hour, by the day, week, or for a whole season. The networks covering football for instance, lease a truck, generally re-configured for the convenience of the lessee, for the entire NFL season. The same approach is used by the SaaS providers. A major benefit that SaaS has over the production truck provider model is that it is only economically feasible to physically reconfigure a production truck if the user commits to a longer time, such as a sports season. With SaaS things can be configured the way the user requires if only rented by the hour since it is all done by software. The cloud offers the ability for a production company to be more dynamic with their business.
+******************Does this truck analog hold true?******************************
+
+SaaS offers scalability and flexibility, which can be important for broadcasters that have content that grows in demand, or one where the level of success is not what it was before. Another thing SaaS addresses is that as a renter of production capability they do not need to invest in a lot of hardware that would then go unused the vast majority of the time. When a production is not ongoing the virtual workspace in the cloud is shut down and all the access data, publishing data metadata is stored for later use. And the great thing is the billing meter stops!
+
+All the data just mentioned can be shared with others. As Tim Claman, CTO and vice president of product management at Avid put it, "It is also a 'pay as you go' solution where multiple users can essentially 'paint on the same canvas' at the same time."
+
+While SaaS portends to be a boon for broadcasters, it does have a couple caveats. Since most everything is offsite it is paramount to utilize a SaaS platform that will create no latency or bottlenecks when uploading a lot of content to the cloud, and not impact their local business and tech networks. Also the rent of SaaS capability does not cover expenses incurred in moving large files to and from the cloud. While the web does allow for flexibility and scale, broadcasters utilize far larger files than the IT sector, and as the cloud is geared for the latter, broadcasters may pay a premium in those peak usage times. "Moving large data to the cloud and back is just very costly, so it is good for storage but moving content back and forth gets very expensive very quickly," said Ian Fletcher, CTO for media at Grass Valley. Users need to understand the costs of putting media in storage and getting it back out. This is why some claim that 40 percent of companies that went into the cloud came back out.
+
+"One of the things you have to consider as a broadcaster using the cloud is what your end distribution model looks like," added Imagine Communication's Brick Eksten. "If you are originating content in one country but distributing in another, the satellite costs may justify the transport costs of using the cloud."
+
+Speaking of satellite transmission, a similar thing happened in the 80s and 90s when television news departments discovered Ku-band satellite transmission. The Ku band, because of the frequencies used, allowed for smaller trucks to do satellite uplinks. Many national networks, but even more local stations invested in these trucks. It was a great promotion tool that allowed local stations to venture far from their home markets. The problem was that just like the SaaS model you bought satellite time generally in 5 minute windows.
+
+News producers tended to want those trucks out and in use. The problem was that those 5 minute windows added up and soon news directors were getting hit with satellite transmission bills of 10s of thousands per month.
+
+The other very big caveat is security, especially since storage of data is not entirely on-premises. This is a legitimate concern given how Sony, HBO and others in the media and entertainment world have had content stolen or leaked. Broadcast production is continually being integrated tighter and tighter with IT departments. While it is important that better IT policies are implemented, those policies must not add restrictions that could slow the workflow, especially when many different individuals or teams access the data. However, a cloud with the right security could allow for approved remote access to data and should help broadcasters overcome the barrier of distance.
+
+Somehow media data in the broadcast world should have the same level of sensitivity as banking or health care but maintain the creative flexibility that simply is not a requirement in those two industries.
+
+"SaaS offers the ability to set up the legitimate users for the particular content; as well as their level of permissions where specific control can be granted," said Todd Kelly, product marketing director at Aspera, a division of IBM. "Broadcasters simply need to organize the content so that they can make sure the right users have the right access. The user access model is the really important part. We've seen leaks, but most of it is due to operator error."
+
+The move to SaaS will inevitably lead to a period of hybrid operation where both the old and new infrastructures will be used simultaneously. "An important consideration for those looking at SaaS is how it will extend to on-premises operations," said Shawn Carnahan, CTO of Telestream. "A lot right now is a hybrid. SaaS is increasingly driven by the workflow that often needs to be distributed via the cloud. Some of this may allow broadcasters to better utilize the premise resources or move the extra processing to the cloud."
+
+A very big attribute that is also pushing broadcasters towards SaaS is the competition they face from Over-the-Top (OTT) operators such as Netflix, Apple, Now TV, Amazon Prime, and others. A lot of this new competition is driven by users and viewers. These OTT players are cloud-native, while the traditional broadcasters are not. As these new entrants embrace virtual/cloud-based technology it is allowing them much greater agility and speed to market than the industry incumbents, allowing the upstarts to gain market share extremely quickly. Compelling content is not always enough, the future of broadcast and media is centered on the platform on which programming is created and distributed.
+
+The impact of these new models and challengers has heightened the need for broadcasters to move beyond traditional thinking.
+
+Broadcasters got to this point with traditional legacy technology. This includes the traditional format of Serial Digital Interface (SDI), which carried the industry through the transition from analog to all-digital operations, and then onto High Definition (HD) with HD-SDI. Now the shift is towards Internet Protocol (IP)-based networks, it is increasingly beginning to replace SDI as standard for all types of communications. IT technology has made the web of webs into the cloud. Infrastructure that is already deployed, and growing continually, is now a generic highway to move anything data, including media.
+
+Let us look at how this paradigm shift in the production business model today might playout because of the widespread adoption of software technologies.
+
+While not on the same scale, but not small by any means, SaaS rollout might look very much like the story of Microsoft or Facebook. Neither got to market first, both made massive mistakes along the way, but both fixed them and moved on.
+
+So step one in the SaaS game will be who gets to market first with enough of an eco-system, and enough cachet that users will come to inhabit that environment. Many players are already offering islands of capability in the space. In the case of first to market MySpace beat Facebook. By normal metrics, MySpace was initially a success. At one point it reached $12 billion in market valuation. But Facebook came along and focused on what brought people to their site, and how to keep them there much better than MySpace, and thus became a much better vehicle for advertisers. When Microsoft and other equity firms decided to back Facebook it invested heavily in finding what worked, and quickly abandoned what did not.
+
+Step two is a natural fallout of step one. Get enough users on your platform and you establish dominant market share. People tend to gravitate to what they are familiar with and has worked in the past. Enough users, and suddenly third party app developers want to team up with a winner. Now apps plugged into your platform and the capabilities of it go up. Facebook built a developer and technology platform that allowed others to ride its coat tails.
+
+Again step three is an extension of step two. You try to prevent additional competition by product commoditization. You need to be the biggest island in the sea. The one that is the easiest to find and one familiar to others you know and trust. The other firewall to defend the progress made to this point is the creation of patents to stop "me too" offerings. In the case of Facebook the sea has pretty much dried up as it is a continent that occupies the space where the sea once was.
+
+Finally step four is where you try to exploit your monopoly. At one time the mantra was "Eat your own lunch First." Today, it is "Eat your neighbor's lunch before they eat yours." The Business World has embraced the monopoly. The political world not so much. Some have claimed that Facebook has pressed its advantage too far and is now facing increased scrutiny about its business practices. Even though at one time an ally to many, size can make you weary of what was once your ally. While regulation can break up monopolies, it is hard to regulate the cause.
+
+A central concept to accomplish domination, is not to try and dominate the world, but dominate a particular segment of a market. Many of the early SaaS providers went with what has been the common wisdom for the last few decades and relied on a horizontal integration model of doing business. Concentrate on only what you do best and try to sell it to as many customers as possible. An example is that a number of early SaaS offerings concentrated on the efficient movement or sharing of files. While these worked just fine at their intended tasks, a company could not build an enterprise scale system from a particular product. They would need to buy a number of different systems to cobble a complete end to end system together.
+
+Now many are concentrating on vertical integration. That is picking a market segment and developing a product, or more exactly a complete end-to-end solution for a particular market segment.
+
+Since we are talking computing another analogy would be two common types of computer storage, a Storage Area Network (SAN) verses Network Area Storage (NAS). The NAS uses a special server on a common network for storage that appears to be a network mounted drive to the outside world. These are good because they generally use standard hardware and software and are generally cheaper to implement. The fact that many of these can be connected to a network, if the network was drawn along the horizontal axis, they would be spread out horizontally. In this case they all do the same thing, provide storage.
+
+A vertical integration model would be a server that has a massive amount of its own storage, large, shared memory, and shared OS with multiple processors geared towards doing things very fast. It visually would be represented along the vertical axis, as it handles its own storage and processing, and common IO. In this example the storage devices along the horizontal axis are fairly easy to implement, and so many would, and there would be lots of competition. The vertically oriented specialized server to provide fast processing would be harder to implement, cost more and appeal to a certain cliental. Generally there would be less competition.
+
+Somewhat not so surprisingly, nearly 60% of the horizontal SaaS companies are in or near Silicon Valley where the inbreeding and churning of engineers between companies would tend to concentrate on products that directly target generic IT solutions. But increasingly an app is replacing the horizontal specialists.
+
+On the vertical integration side, again nearly 60%, hail from areas not known for their startup eco-system. One might surmise that many of these saw a particular problem and went after a solution without the requirement of serving a vast general market.
+
+So SaaS vertical integrators might have a better chance of reaching monopolistic status as they stay focused on a particular customer type and grow along the Y-axis. By staying focused on customers in one industry, they will provide them with more, better-tailored solutions to establish market share. Even though this market is smaller because the target customer base of a vertical SaaS startup is more homogenous, they can sometimes achieve faster growth, as buyers look to stay competitive and compatible and so mirror their peers through "copycat buying," which results in higher overall market penetration.
+
+Today for all but the hardest problems, computing and memory solutions are nearly free. Bandwidth is becoming rapidly more accessible and less expensive, and that is making it possible to use the largest parallel processor, aka the cloud, which can now be rented, rather than purchased.
+
+Now if you are in the media business your choices are coming down to three:
+1) Own the Content
+2) Own the Content Data Center
+3) Own the Right of Way to the Home
+
+When it comes to SaaS and our players in the Grass Valley area their choice is 2. That is if they want to continue to play in the video production arena. The customer is the content creator. It will take the right products, solutions and services that are scalable.
+
+An important aspect of making this work is the seamless use of proxies. Remember earlier in this chapter we explained that proxies are lower resolution copies of media that the user of the service sees, but not what is delivered when the product is distributed. This is to minimize the data transport cost between the SaaS's storage and the end users. Bandwidth, computing, and storage have to be managed to optimize a proxy's effectiveness.
+
+Also a myriad of monitoring to measure many system metrics so the customer can manage and adapt when necessary to changing parameters must be provided. Also, a media management system so the user can easily track and use the media library that is up on the SaaS servers. Another important attribute would be to expose this platform to accommodate 3rd party applications which would enhance the platforms appeal.
+
+This means a lot of engineering hurdles must be cleared and managed. As was mentioned earlier three building blocks will be central to the architecture of this, standard CPUs, FPGAs, and GPUs. These will need to be brought together and virtually organized via software and network management to provide what often will be ephemeral processing to accomplish the production task assigned. Some SaaS products might offer a hybrid of cloud and local based processing building elements. This will obviously complicate the process.
+
+In the next and last chapter we will look in a little more depth at how the Grass Valley Company is trying to implement SAAS.
+
+<h2>A Central Client - The TD</h2>
+*********************This section has been put off up until now.***********************************
+
+Only TD interview has been with John Fields:
+• John takes credit for starting the practice of a separate TD for effects in award shows. He said it was a new box, needs a new person. To back that up the example he gave is the winner is – we had a split second decision on which affect the call up in use. He said it was the same with still stores. The first still store was an ADDA.
+
+• Technical Directors-they're not anymore, they're switching operators. Old school was that a TD runs tech inside the truck and you hired someone to run everything outside the truck. Only that guy came into the truck to talk tech issues with the TD. But shows got too big. Now producers hire a tech manager. Producers want more out with less time today.
+
+• John said GVG never wanted ideas only endorsements.
+
+• John mainly did all the big award shows. He knows to Kalypso very well. He was asked to consult on the Kayanne. But he had found out that the ship has already sailed.
+
+• John was not that close to vendors. He was much closer with producers and directors.
