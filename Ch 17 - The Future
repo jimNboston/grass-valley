@@ -261,3 +261,169 @@ From an accounts receivable standpoint many of the company's customers are casin
 We have alluded to the difficulties in dealing with Nevada County earlier and will touch on that a little more in this final chapter. But let us add a little antidotal evidence here. Auburn is in a different county than Grass Valley/Nevada City, it is in Placer County. While Ceronix's first building was in Auburn, Placer County, Don lived in Nevada County, about 8 miles north of Auburn. When it came time to expand he looked at moving the operation to Nevada County. He looked at a number of sites in Nevada County, even part of the Bitney Springs site at one point. He also looked at three other places in the county. He even put $20K down on one location but could not get the county to sign off on the necessary permits. So he ended up staying in Placer County in the Auburn area.
 
 <h2>Attracting Talent to the Area</h2>
+Sierra College Grass Valley Campus
+
+To stay a viable high tech area you must attract, or grow tech talent, and then keep them. A problem the area has right off the bat is that there is no four year college, let alone an engineering school in the immediate area. It is increasingly hard to attract talent to the area.
+
+In the early 80s the Grass Valley Company started a liaison program with the local two year college, Sierra College, to turn out electronic technicians. Back then there were about two technicians for each engineer employed. The techs built prototypes and debugged them. They built and maintained the engineering labs. At the end of the assembly line where product would undergo final testing, that was done generally by techs. Same with field service support.
+
+Over the years the design and prototyping process became much more automated. Designs could now be much more reliably virtually simulated. A lot of the debugging process was done in the design software. The need to use specialized test equipment, which the techs were trained to use, diminished. Equipment became more reliable and can now often be diagnosed and fixed remotely, so the field service force dropped. The need for electronic techs dropped to a fraction of what it was. This is true not only with companies here, but universally. Producing technical talent, shifted from two year programs to four year engineering programs. Even hardware engineers are more and more going the way of the tech, as software engineers now far outnumber hardware engineers.
+
+Now many people have the ability to learn to program or code without upper division college classes. They can master the algorithms, or procedures that need to be applied to various types of data. Maybe without the structure that is taught in a four year engineering college. These schools emphasize a systematic, disciplined approach to software development and its evolution. Often this must be applied in the implementation of large software systems.
+
+To do this efficiently the code has to have high dependability. This encompasses safety, security, and reliability of the system. But there must be other development disciplines in place to achieve efficiency, usability, accessibility, and very importantly maintainability.
+
+Much of what is imparted into upper division software engineers is radically different then what hardware engineers face in their curriculum. While hardware engineers deal with a lot of software today for development and testing, they are users and not developers of those tools. Also, another overlooked fact is that just because the word "digital" is thrown about continually, at the very lowest levels of hardware design, especially with ever increasing data speeds, analog is still going strong. The hardware engineer, even when at the highest level is working on a "digital" circuit, analog still rules in many cases.
+
+So it appears on the surface that software engineers might be able to be home grown, as all the analog attributes are an abstraction down in the hardware layer, the biggest impediment is not learning the programming language in use, and the difference between decision and loop structures for that language, the biggest impediment is often the development tools that software engineers use.
+
+The viability of the area's high tech colony might rest on how well and fast the area can mint functioning software technicians and have the actual software engineers oversee the design process. Thus the age of the technician, albeit software ones, might be making a comeback.
+
+The area's Economic Resource Council commissioned a survey of the top 20 things impacting business in the area. Good broadband service was not on the questionnaire. Many wrote on the survey - broadband! Neither the county nor the city officials got it. Broadband was slow to come to the area and it is still spotty. Nevada County eventually coughed up $250,000 to jump start broadband. There are still only two fiber paths into the area. Up highway 49 from the south by AT&T and up highway 20 from the west by Comcast. To this day many locals still fight efforts to expand cell and other wireless services.
+
+Besides broadband the area does not have another thing that millennial's want: affordable housing. There are few rentals in the area, housing prices are high, even by California standards. The area also caters to tourists, so a lot of the available rental property has been turned over to services like Airbnb.
+
+Another issue is that there is a lack of other industries, so often there is not enough diversity for both spouses to work. Many who are recruited are single, and not intent on putting down roots.
+
+Talent that does get lured into the area, generally new graduates, often just stays a few years before they go off to live their life's. Lack of talent means it is hard to scale a business and since it is so expensive to move here, the area recycles a lot of the locals. Many wonder what will happen when the current talent pool retires.
+
+Even when it comes to executive talent the area is a hard sell. When Dan Castles retired the first time from Telestream, the company first tried hiring a CEO who continued to live in the Bay area and would commute the 140 miles to the area during the week. That did not work out for either party. The second try found the company actually re-organizing and purchasing another company in the east to give the next CEO a home base to operate out of, as he was an east coaster that also had no desire to put down roots in Nevada County. Eventually Castles was forced out of retirement to retake the reigns. More than one Telestream board was concerned with the company being headquartered in Nevada County.
+
+Local companies have found it hard to even lure people out of nearby Sacramento. Again local housing in Nevada County, along with the cost of living, is higher in the Sierra foothills. The ones that expressed interest often were not up to the challenge that operating a high tech company in Nevada County presented. As was mentioned in chapter 15, that some companies in the county are what are referred to as "lifestyle" companies. These are run by people who like the area and run a business that plays in the video high tech game. They are able to meet payroll, and keep the lights on, and are content in the niche they created. While there are local communities of engineers, and other talent, the upper management group spread through the area does not have much of a peer group locally.
+
+It is not just technical talent that is hard to recruit. Castles sits on the local hospital's board, where they have a hard time recruiting doctors and other professionals.
+
+Mary Willington who was with a small business agency in Nevada City said this about local students:
+A students go to university and never come back
+B students go to State and stay in the area where they went to school
+C students get jobs in local mom and pop companies
+D & F students get jobs in government
+
+<h3>The Towns</h3>
+The two towns of Grass Valley and Nevada City have different personalities even to this day. Grass Valley is more open to business, and they will expand city limits to accommodate business. An example is Crown Point where a number of high tech companies, along with the building that the Grass Valley Company is selling, reside. The Providence mine site that the company had was Nevada City's first expansion of the city limits in about 90 years. Ken Myers, GVG facilities manager at the time sold the idea of annexing the site as the sales tax would accrual to Nevada city. He also arranged to donate about 1/3 of the property to Nevada city for a waste treatment plant.
+
+Nevada City wants to preserve the past, and the city makes it very hard to tamper with any of the storefronts. They want the historical look. It is said that Nevada City folks are more arrogant, but that Nevada City schools are better. Another common perception is that ex-hippies run Nevada city, sometimes the Nevada City Council reinforces that conception.
+
+While Grass Valley has some quirks, it is far more open to change. Nevada City is not business friendly. Car dealers, and other major commercial enterprises are in Grass Valley. Folks either love or hate the area, if you are into the urban, you are not fans of the area. The HR at Grass Valley Group used to call it pine cone country. Some find that quaint, many do not.
+
+Nevada County, as a whole also has an anti-growth bent. Building permits and inspections can be agonizing. County officials are often considered capricious. The author knows one county resident that one day had the county declare that the house he bought was now considered a barn and he would have to move out. One of the reasons the Grass Valley Company moved out of the Bitney Springs site was the increasing encumbrance the county was putting on any construction there. At one point the company wanted to replace a building that burnt down. The county treated it like a brand new build with all the hoops new construction had to go through.
+
+But the bottom line is that high tech industries help the economy of the area, they have well paid employees, and help fund the community through sales taxes. It is surprising how many who live in the area do not realize that there is a high tech enclave within. Many think of the area mainly as tourist towns, and such have more than their share of good restaurants and art. Those attributes are helped greatly by the money high tech dumps into the local economy, surprisingly unbeknownst by many locals.
+
+<h2>Infrastructure</h2>
+<h3>Fire</h3>
+In chapter 7 we looked at how fire affected the Grass Valley Company. A much larger cautionary tale happened recently just 48 air miles to the northwest.
+
+The November 2018 Paradise or Camp Fire (named after Camp Creek Road, where it started), was the deadliest and most destructive wildfire in California's history. Covering 239.6 square miles, killing at least 85 civilians, destroying more than 18,000 structures, it ranks number 13 on the list of the world's deadliest wildfires; it is the sixth-deadliest U.S. wildfire. It was ignited by a faulty electric transmission line about eight miles east of town. The winds blew it westward and it quickly climbed up and then down a couple ridges destroying a couple small towns before it got to Paradise and proceeded to destroy about 95% of the structures. It burned for 17 days and at times was burning through an area the size of a football field every second. It continued burning westward and got to about 6 miles from the city of Chico, which has about 100,000 people. It was 2018's most expensive natural disaster in the world in terms of insured losses.
+
+https://www.lomaricatv.com/preview/chapters/graphics/210805%20river%20fire%20pge.jpg
+https://www.lomaricatv.com/preview/chapters/graphics/210805%20river%20fire%20pge%20image.jpg
+Known as the "River Fire," it burned to within 10 miles of Grass Valley
+
+
+One positive thing that came out of this is that PG&E is now planning to bury 10,000 miles of power lines in California. This is about 10% of its distribution and transmission lines. The utility thinks the cost will be between $15 and $30 billion. Another is that there is a concerted effort to clear an invasive species filled with highly flammable oils, scotch broom which has invaded the area.
+
+Closer to Grass Valley and Nevada City, a half a dozen fires have broken out west and north of the towns since 2017. The largest was known as the Willow Fire in September of 2020 and burnt 1311 acres about 15 miles west of Grass Valley. Recent fires also include the August 2020 Jones fire, started by a lightning strike, that burned 705 acres just northwest of Nevada City. While the fire raged about 4,000 were forced to evacuate while another 16,000 residents were advised to be prepared to evacuate. One of the roads closed during the fire was Bitney Springs.
+
+While lightning storms do not happen often in most of California, they tend to happen more frequently in the hot summer months in the Sierras. This is because warm air rises up the western flanks of the mountains, pushed along by the prevailing westerlies off the Pacific, cooling as it gains altitude. Moisture in the air then condenses, creating clouds, rainfall, and occasional lightning strikes.
+
+https://www.lomaricatv.com/preview/chapters/graphics/banner%20mountain.jpg
+
+Between Nevada City to the north and the Nevada County Airport to the south is an area known as Banner Mountain, named after the 3902 foot Banner summit. It saw its first a fire lookout tower in 1911. The current tower is 60 feet tall and is manned by volunteers from June to November. It has 81 steps from the ground to its observing platform. From the tower you can see down into the Sacramento Valley to the west, Auburn to the south, The ridges around Lake Tahoe to the east, and Mt Lassen to the north.
+
+This prime fire spotting location has one other fire connection. Many feel that it could be ground zero for a devastating fire. From just north of the airport and going east up towards Scott Flat reservoir could be the archetypal recipe for a conflagration. Lots of trees, with houses intermixed, and hillsides that are like highways for fires that like to race up a slope.
+
+Cal Fire North Operations Division Chief Jim Mathias has stated that due to droughts, the county has 124 million dead-standing trees throughout the Sierra Nevada Mountain range, primed to burn. A problem that the area faces is that people move into those areas for the seclusion, prizing the trees as a damper between neighbors. If each cleared 100 feet of space around their homes in the Banner Mountain area everyone would see each other and that is not what the crowd wants. They want their own cocooned nesting grounds, cut off from each other. Obviously the denser the tree cover, the more fuel in these neighborhoods.
+
+After the Paradise Fire it has gotten very hard to get insurance in the area. Insurance premiums in some cases have tripled. Many companies are not even writing policies in the area. Even finding a company to issue a policy at the much higher rates, you still generally need 100 foot clearance around a house and 5000 gallons of water on the property for the insurer to declare that it is minimally fireproofed. Counties cannot fix this, as they would face a screaming hall of homeowners. Only insurance companies can fix it by requiring fireproof checklist to obtain insurance. The problem is the state will fight against the insurance companies saying they are being arbitrary. But the bigger problem is the threat to the ongoing vitality of the area if the worst happened, as is a large portion of the money in the area is on Banner Mountain.
+
+It is not only Grass Valley and Nevada City, many worry that mountain towns, especially in California, might become an endangered species.
+
+https://www.lomaricatv.com/preview/chapters/graphics/tahoe%20under%20brush.jpg
+Underbrush near Tahoe. Taken a few years ago
+
+There has been an ongoing debate over the state's forest management. Many point out that the underbrush has been ignored for so long that it has created perfect tinder to burn the trees.
+
+Some claim the destruction of the lumber industry was a mistake. Many in the environmental movement sought an end to clear-cutting. Many point out that clear-cut areas provide fire breaks.
+
+The thinning of brush out between trees has been blunted. Even the selected harvesting of trees to lower the fuel load is fought. No more cutting and replanting. The goal is a laudable one, saving the natural habitat. That is until it is burned down.
+
+Common sense is often in short supply. Most fire ecologists say that the surest way of preventing massive forest fires is to use prescribed burns. The California Environmental Protection Agency states that "prescribed burning is the intentional use of fire to reduce wildfire hazards, clear downed trees, control plant diseases, improve rangeland and wildlife habitats, and restore natural ecosystems."
+
+The goal of these prescribed burns are to keep the forests healthy by burning up the underbrush that accumulates on the forest floor and by thinning trees. The Forest Service has concentrated on fire suppression, and not prevention.
+
+This problem is not a state problem but mainly a federal one. The federal government owns 45.8 percent of California's land, while 4 percent is owned by the state and 51 percent is privately owned. CAL FIRE manages both state and private land. Part of the reason it is so difficult to manage California' forests is the bureaucratic milieu. The Forest Service manages 193 million acres of land across the country, has 28,000 employees, and has an annual outlay of $7 billion a year, according to a 2017 Analytical Perspective from the budget of the U.S. government.
+
+The Forest Service has performed prescribed burns on an average of just over 1% of the forest they manage per year. The policy of fire suppression has created what insurance companies call "mega catastrophes," a term that describes disasters that result in insured losses of more than $1 billion. Mega catastrophes are becoming the norm in California. In 2017, the Forest Service stated that there were 5,906 fires on California state and private land. In 1993, 1,797,574 acres of wild lands burned, but in 2017 this number had jumped to 10,026,086 acres.
+
+From 1960 to 1990, 10.3 billion board feet of timber were removed from federal forest land each year. From 1991 to 2000 that numbered dropped to 2.1 billion board feet of timber per year. "There's an old adage that excess timber comes out of the forest one way or the other. It's either carried out, or it burns out," California Congressman Tom McClintock said in a speech supporting "The Resilient Federal Forest Act," a bill that stops the practice of taking fire prevention funds to pay for fire suppression. It also was intended to streamline environmental reviews so that forest managers don't have to fill out hundreds of pages of documents just to cut down rotting and diseased trees. While passed, this bill continues to be debated and modified.
+
+One reason more trees are coming under duress is when they are too close together. They fight for resources. Many of the trees are weakened and become more susceptible to disease and insect infestation, making those trees into tinder boxes. A 2017 report from the U.S. Department of Agriculture states that 129 million trees have died in California's forests since 2010.
+
+The goal might turn out to be not how many trees there are, but how many healthy ones.
+
+<h3>Power and Other Infrastructure</h3>	
+https://www.lomaricatv.com/preview/chapters/graphics/cal%20water%20levels.jpg
+Major California reservoir levels on August 15th, 2022
+
+The state has a trifecta of troubled parts of its infrastructure. Fire being the first, water being the second. Damn the dams! Let the fish have their habitat, keep the water flowing to the sea, empty the reservoirs for the one-inch Delta smelt! While water policy in the state is not as draconian as the previous two sentences would imply, it has been a constant topic of debate as soon as European style agriculture and urban centers cropped up.
+
+Water in California has always been considered a finite resource. Low enough that almost all of it is allocated to various agencies and governmental agencies. Many lament that there has not been much new capability to the state's water infrastructure for a very long time. In fact periodic reduction of water storage is brought up from time to time, by the elimination of some of the state's 1500 dams. Some farmers, in what is billed as the country's breadbasket, the San Joaquin Valley, have been cutting down their nut trees, or not planting other crops leaving their fields fallow. There have been so many books written on that topic that it does not need to be covered here, except to mention, water is a daily concern, especially during the long dry summer months.
+
+Finally, we have the power grid. The state's current goal is of all-renewable power by 2045. Laudable yes, but that may not be realistic. Plus a couple sentences on the dark underside of renewables. Windmills are killing birds, although the numbers are all over the map. From a million to many millions. The arguments and studies range from windmills being the one of the dominant killers, to cats and power line dwarfing what windmills do. Some argue that it is the decimation of raptors where windmills are most damaging. Solar power's mining of rare earths needed to construct solar panels concern many, as the horrible living and working conditions required of the people exploited, in many cases, to exhume the material.
+
+In addition, solar panels have a finite life, and at the end of their life, many early ones are starting to be retired now, and are considered toxic waste, and California does not want them recycled inside their state, and are often shipped to Arizona, and Nevada for disposition. They are hard to disassemble and reclaim any of the reusable materials. The state that is pushing the hardest for their use, wants nothing to do with them when they are done with them!
+
+On a typical hot summer day, mid-afternoon, nearly half the available power in California comes from renewables, with solar providing half that. Of the total demand that centers between 30-40,000 MW at its peak during a summer day, wind during mid-day provides between 5 and 7%. While all the state's windmills hypothetically can deliver almost 6000 MW of power, often the total generated at any one time is a fourth that. Evenings and overnights are generally when wind often reaches over one-half of its potential output.
+
+https://www.lomaricatv.com/preview/chapters/graphics/cal%20power.jpg
+California power situation August 15th, 2022
+Notice that renewables are only of significance during daylight hours, and the heavy reliance on Natural Gas overnight
+
+https://www.lomaricatv.com/preview/chapters/graphics/cal%20renewables.jpg
+Renewables during many daylight hours means mostly solar. Wind does help some overnight
+
+https://www.lomaricatv.com/preview/chapters/graphics/cal%20power%20status%20220816.jpg
+California power demand and supply snapshot at 7pm on August 16th, 2022
+
+After renewables, natural gas still carries a large percentage of the load, even in the middle of a sunlit day. Often almost 40%. Overnight it and imports from out of state carry the bulk of the load. The states lone surviving nuclear plant holds steady at about 2,250 MW, and hydro generated power, which long term depends on the drought situation, is around 1000 MW. The state also has one remaining, rather small coal plant, on a Indian reservation. It delivers about 8 MW!
+
+On top of that on hot days by late afternoon the need for natural gas sourced power can be higher than renewables. The California Energy Commission has forecast that on peak high demand days the needed power available shortfall due to demand could be 600MW in 2023 and rising to 3300MW by 2025. The largest power utility in the state, PG&E, will also cut power to areas that have a high risk of fire, to prevent its equipment from starting one, which has been the case in a number of catastrophic fires in the last few years.
+
+Other state infrastructure problems loom large. Some 62% of state roads have been rated poor or mediocre. The state is ranked close to the bottom in this metric. K-12 education also rank near the bottom. One-third of Bay Area residents polled were hoping to leave the area soon. Taxes are high, as state sales, income, and gasoline rates among the highest in the U.S.
+
+California has the highest poverty rate in the United States. 1/3 of all American welfare recipients live in the state, and almost a quarter of the state's population lives below or near the poverty line. One in four state residents was not born in the country. Yet the state's gas and electricity prices are among the nation's highest. The state's wealthiest 1 percent, for instance, pay 48 percent of its income tax, and California depends on this tiny elite class, 13% rate being the top paid to the state.
+
+There is an elite class along the Pacific coast that is out-of&45;touch and runs the state. This class has the money to escape the real-life consequences of its own unworkable agendas. Away from the coast, in the central valleys, and in rural and the Sierra foothills, are the people, many who cannot flee to the coast. This class suffers the bulk of the fallout from bloated state regulations, poor schools, and the failure to assimilate recent immigrants from some of the poorest areas in the world. The result some have said is Connecticut and Mississippi combined in one state.
+
+With all of its social programs and their incentive to pull people to the state, it ends up with a state that needs to gleam every tax dollar it can. California has 13.3% tax on capital gains, which inspires plenty of people to leave the state. California's tax collection agency, the Franchise Tax Board (FTB), has gotten much more aggressive in looking for any connection to California. Any can be enough to at least raise tax issues. Not only with residents who move away. FTB makes the line between residents and non-residents a hurdle that only has gotten higher. After a resident leaves the state, the agency is likely to probe how and when they stopped being a resident.
+
+The fair market rent for a two-bedroom apartment is about $1,600. To afford this level of rent and utilities, without paying more than 30 percent of income on housing, a household must earn $64K annually, which equates to a wage of about $31 an hour.
+
+Indeed, the area is a tough place to do business, and employees not in a "professional" class will find their quality of living, outside of the weather and the scenic backdrop, lower than if they were somewhere else.
+
+<h2>A Virtual Company</h2>
+We will conclude this by going back to where we started. By the time you read this the company named after the town might no longer have a physical presence in the area. From the Litton Building to a large, impressive campus out on Bitney Springs Road, to a former mine site in Nevada City, and then back to a site located on top of another mine, The Grass Valley Company is posed to end any residency here. The irony here is that this last site sits atop the mine that was owned by the person who funded the building of a hospital that never became one but was the site of the company's founding.
+
+At one time the Grass Valley Group, as it was originally known, the "Group" for short, had a very large presence in the area. It was the largest employer in the county with over 1100 employees. Whenever the company bonuses were handed out, they were substantial enough to ripple through the entire surrounding communities. The company brought many people up the economic ladder.
+
+Ten years ago the company, while growing in size worldwide, continually shrank here, was down to 400. By the time it moved into the Building on Crown Point it had shrunk to 200. Within the last couple of years it was less than 100. The company is now headquartered in Montreal, Canada.
+
+According to Tim Shoulders, the company's President until November of 2021, the company's hardware manufacturing formerly done in Grass Valley was moved to Montreal over the last decade. As we saw last chapter this was also a reflection of the company's long-term reaction to a decrease in demand for hardware, and toward more software and virtual solutions.
+
+"To keep up, and to keep eyeballs on their own platforms, our customers have to produce a lot more content, and then they have to compete with a lot more people for the rights to that content, and so all of that reduces the amount of revenue they receive for each of the assets they produce," said Shoulders.
+
+"So, they essentially buy less hardware and buy more software, and pay for things as they use it, versus building out humongous infrastructure for their programs," he said.
+
+Undoubtedly the pandemic hastened the move to more employees working remotely in this area. But some employees might be forced to move. He said that some will be relocating to Montreal for proximity to the manufacturing operations, or to cities such as Los Angeles, New York, and Atlanta to work more closely with the company's customers "where the media is happening," said Shoulders.
+
+The company's future is still very much in flux. Besides Shoulders, Marco Lopez, GM of live production, also left the company. Lopez had run Miranda; one of the two companies Belden had forced to merge. Louis Hernandez Jr, who was the CEO of Black Dragon Capital that had bought the combined companies, became what turned out to be its interim CEO and President. In March of 2022 Andrew Cross was named Chief Executive Officer. Cross joined Grass Valley from Vizrt Group, where he was President of Global R&D over all product development across all three brands (Vizrt, NewTek, and NDI). Previously, he was the CEO of NewTek until it was acquired by Vizrt.
+
+What this all means is that, at least for the Grass Valley Company, the bridge from where they were, to where they think they need to be, is still definitely under construction. The hard part? The bridge while being constructed, is still being designed! And finally none of the anchor piers for that bridge will remain in the area.
+
+Interestingly, earlier, Shoulders had said that the company now removed from Grass Valley and residing in Montreal: "We're still carrying the Grass Valley name very proudly."
+
+Or as the French would say: "Vive la vallée herbeuse"
+
+https://www.lomaricatv.com/preview/chapters/graphics/for%20sale.jpg
+August 2022: Last outpost in the company's namesake!
