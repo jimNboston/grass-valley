@@ -1,0 +1,210 @@
+Chapter 14 - Not Even Belden Could Make it Work
+<h2>Didn't know what they were getting into</h2>
+Belden got into the equipment vendor space, that is a business space considered adjacent to cable manufacturing, thinking that they could show the television equipment vendors a thing or two when it came to running a lean business. While both Belden and the television equipment vendors they brought, where low volume, high mix, their scales were still a magnitude off. While Belden had a gigantic product catalog, the high mix part, they often created hundreds of miles of a particular cable during a run. Grass Valley, Miranda, SAM, or any of the companies those three had folded up earlier, literally might make a run of four or five production switchers at a time, each with different options. Belden did not stop down every few thousand feet during a cable run to slightly change the cable's parameters.
+
+Just because you move into an adjacent market does not mean you easily transform into acquiring the expertise that is needed to survive there. Boeing designs and assembles complex aircraft. They install engines onto those aircraft, but they do not design or manufacture them. If they decided to compete in the engine market they would be in for a steep learning curve. Conversely, GE would be in a long term world of hurt if they considered not only building the engine, but the entire plane while they were at it. Both Boeing and GE have a lot of common competencies. It's ones they would have to add that could kill them.
+
+Designing complex hardware and writing/debugging software to make the hardware do something useful is entirely different from designing and building industrial processes to manufacture thousands of miles of various types of wire and cable. Belden's acquisition of GVG is eerily similar to the acquisition of NVISION by ADC in 1999 as we saw in the last chapter and will see again next chapter. "Same circus, different clowns," as one observer quipped.
+
+Belden thought increased focus around business fundamentals was what was needed. Now you budget how much you're going to sell, and how much profit you're going to make. They wanted GV to stop acting like a startup by blowing out money now, hoping for future profits. They would now have to deliver every year, actually every quarter. In 2015, then Miranda CEO Marco Lopez said, "Broadcast for Belden is 40 percent of revenue," he added. "It's very important." But again technological forces were gathering to stymie any business logic that Belden thought they could bring to bear.
+
+Every time Belden bought one of these businesses, whether it was SAM or Grass Valley, they came into it thinking and seeing ahead that there were going to be positive market tailwinds that would carry the business through growth. And they could bring the businesses together, lean out the back office functions, lean out the powers in the market, and put it in a position where they could reap the growth upside with a combined stronger portfolio and thus follow the market trend upward.
+
+Well the market was not really trending upward. As a matter of fact, it followed pretty typical patterns of bouncing up when the big international sporting events occurred, and then falling back. After six years of expecting the market to grow and it does not, you eventually lose patience.
+
+So it was difficult for GV to give Belden management a good perspective on where the business was going to land in any given quarter, good or bad. Companies like GV lived and died by landing large projects. Often they would think they have won a project, that either would slip into the next quarter, or slip away entirely.
+
+Jay Kuca remembered, "My good friend and former GVG colleague, the late Bob Johnson, watched the company's sales performance very closely, and he posited that the only "seasonality" he was able to detect was driven by major televised events like the Olympics and the national political conventions. Both of those are on much longer cycles than a calendar quarter."
+
+<h2>Becoming software centric</h2>
+As we have started to see, and will see in much more detail later, application software can be simple, in which case it sells in someone's app store for $2.99, or it can be complex, and has to mesh with intricate hardware, which it is a part of, or controls it from a far. The challenging thing about software is that customers do not value it as a standalone product. Offer a device that is a mixture of software and hardware, something that you can physically touch, and they might pay thousands of dollars for it. Turn it into a purely software app residing on a PC, tablet, or phone, and they will expect to pay a tenth or less for the same functionality.
+
+Software engineering, of any complexity, is expensive, but OK so long as enough hardware is sold along with it to make it worthwhile. An example as told by Chuck Meyer when he was with NVISION in the 90s: They could produce a modular product that they could sell for something like $1400 in the US. It would have a Bill Of Material (BOM) for the hardware that was $300-400. That product would not be a pure hardware item. It would have devices that needed to be coded (FPGAs and the like), and maybe even PROMS with actual software. Creating that software was the expensive part. But the markup was enough to justify the programming talent that the company would need to employ.
+
+In the mid-teens of the new century GV realized that the online video platforms, such as Netflix, Apple, and Amazon were doing two things to broadcasters. One was all the other ways their traditional viewers could receive content. Two was the increased competition for content as those platforms were now competing for content against the local broadcaster, via content that would historically be on network television and was not.
+
+Broadcasters began to face the reality that they would have to use the web to create and distribute content. So in the background GV started laying the pathway to become a service provider on the web. A painful decision but they realized hardware would have to be positioned to be a necessary evil, although a profitable one. But a method would have to be found to make the software bring in more revenue if the industry was not going to revert completely to the likes of Adobe.
+
+<h3>New more software centric Product Lineup</h3>
+Some hardware from GV will be necessary for the foreseeable future. The company introduced a new camera platform, the LDX 100, with native UHD and high-speed frame capability. This camera can be directly interfaced into an IP "contribution" network. They introduced a more powerful K-Frame XP production switcher that handled UHD without impacting the I/O count. As we saw earlier it was sort of a hybrid project that was starting to divorce the control panel or operating surface from the underlying video processing. An initial step towards moving that processing out into the cloud.
+
+The GV Media Universe, an ecosystem of cloud-based tools and services, was introduced. This was a big step in how they might be able to make software pay. This would help clients spin services up and down either locally or on the web as needed. The basic concept is that software would not be sold as a capital expense, but as an operating expense. People needing production services would not go and buy a lot of expensive hardware but would pay as needed for services in the cloud. The building of on-the-fly "media factories," to match whatever production workflow was required at the time, that would go away after use.
+
+An example given by GV President Tim Shoulders at the time, "The Media Factory can be a set of applications to capture, curate and distribute content and they can be built up for peak capacity on something like the Olympics and then scaled up and down as needed with the client just paying for what they need." Since the service had an HTML interface it would allow for a show to be produced from anywhere, including functions like graphics and replay, that can run on a public or private cloud, or both.
+
+As we will see in chapter 16 the REMI (REMote Integration model) production model was coming online, that allowed customers to reduce travel costs. In 2019 TV Technology said, "what used to require specialized knowledge and lots of rack space now can be done on a laptop." But that will not always be the case as GV President Shoulders at the time said, "I would still argue that doing complex things like switching video over IP, that's rare-few companies have been able to do that successfully. Grass Valley being one of those companies."
+
+<h3>The stall</h3>
+All the prep just mentioned did not help the immediate business problem that Belden faced with GV. As we alluded to as 2020 approached there was another format change. But this one was not a video or file format change, but a fundamental business change. The move to Common Off The Shelf (COTS) hardware based around the cloud, after many earlier tries, was finally an approach that now had the legs to actually stand on its own. As we just mentioned the mindset was evolving rapidly that software revenue would become a pay as you go revenue stream, and not a "capex" influx of cash. That in the short term was going to greatly hurt cash flow and eliminate any profits for a while. This became a very stressful time for Belden, and they decided to rethink what they had assembled. But as you can imagine, in order to mitigate the impact of that, they put a lot of pressure on the Grass Valley business anyway. Partially because of the pressure in the halls of Grass Valley/Miranda a saying sprang up - "we don't do it right, we do it right now."
+
+But the conglomerated GV had another pressing issue. It had been assembled from many different companies over time. They had a number of various software stacks and software architecture approaches from various parts of the portfolio. This integration was going to take time. Going through that transition and hitting quarterly revenue performance targets set by Belden just could not happen.
+
+Belden had hoped that the transition could have been complete a couple years sooner than it took.
+
+The products they had developed over the last few years allowed a strategy to develop to give Belden a way out. No, not a way to profitability, but a strategy to sell the company. Stroup had to find a buyer as he was under pressure because his investments in video was not allowing them to make their numbers.
+
+The company decided to fully embrace the direction that they were generally headed. They overtly pushed the Software As A Service (SAAS) business model. The company would assemble and position their products to sell production services through the cloud and would reap whatever hardware sales they could in the process. It was this sales pitch, and the GV brand, not as shiny as it once was, but still brighter than most, that got them bought. But it would have to be by someone who could take the long view. We will look more in depth at SAAS in chapter 18.
+
+It was not that all hardware sales had completely stalled as in 2019 they did have a good year for switchers. But in a sign of things to come their sales of IP products were up almost 100% over the prior year, poised to double again the next year. So the inflection point for IP was at hand. And that meant that as their customers went the IP route, a larger percentage of the remaining hardware sold was COTS, not money that would flow through GV.
+
+Companies like GV typically do not carry a deep order backlog outside of service support agreements, and so can't be sure what the quarter would bring, and a lot of sales activity compresses around the end of the quarter. Belden had a track record of being very good at forecasting the cycles of the cable business and for the reasons stated were never able to figure out how to properly forecast Grass Valley.
+
+The final year that Belden owned GV the financials were bleak. The company was on track to lose over a billion dollars on sales of about $2.5 billion, of which about $348 million in revenue were from GV. If GV numbers were backed out the company made a profit. Losses due to GV increased threefold over those of 2018. Similar to what Tektronix had experienced.
+
+"Revenues were near the midpoint of our expected range excluding Grass Valley," said Stroup at the time. "Consistent with our expectations, demand trends remained softer in some of our key industrial markets in the third quarter, but we are encouraged by the improving trends in our broadband business."
+
+The negatives upstaged the positives and so the board of directors of Belden decided on Wednesday, October 30, 2019, it was time to divest. Many GV customers took this latest sale in stride, as they had gotten use to the company being treated as a commodity.
+
+Belden did understand that GV was worth more together than if it was broken up into parts. Partially this was because of the nature of a lot of their cliental. Some of their largest customers where continuing to get larger. It was thought that the larger they got the more disciplined they got regarding purchasing. Continuing down that path, when they get more disciplined about purchasing, they look for companies that have size and scale and stability. Keeping GV intact, even after it was sold, would not change the fact that they were still one of the largest media technology businesses in the industry. One of GV's largest customer segments is the mobile production truck industry, which has been undergoing consolidation for almost 20 years. The largest, NEP Inc. based in Pittsburg, but with a worldwide footprint, is considered the largest television production company in the world.
+
+<h3>Sale</h3>	
+On July 2, 2020, Belden completed its sale of the company's Live Media business, Grass Valley, to Black Dragon Capital. The Florida-based private equity firm, with a focus on technology investment opportunities in disrupted industries, was founded and managed by Louis Hernandez Jr., the former Chairman and CEO of Avid. Avid was a large player in the video server and editing markets. The purchase of GV definitely appeared to live up to the company's purpose.
+
+The transaction was relatively complicated and there were several important changes made to its structure between the time it was first announced on February 4, 2020, and when it closed on July 2, 2020.
+
+The final deal terms per Devoncroft Partners:
+1) An upfront, gross cash payment of $120 million remitted to Belden by Black Dragon Capital
+This was a ~14% reduction, in favor of Black Dragon from the initial negotiations
+
+2) The creation of a note ("Sellers Note") in the amount of $175 million (less certain pension obligations assumed by Black Dragon) due in full to Belden in five years, unless it is extended
+A ~18% reduction, in favor of Black Dragon from initial negotiations
+
+3) Payment-in-kind ("PIK") interest at 8.5% per annum, on the Sellers Note for as much as $88 million and payable in full in five years, but subject to extension
+A 15% reduction in the annual interest rate, and a ~32% reduction in the total contemplated interest payment, both in favor of Black Dragon
+*************************************************************************************
+Any background on what might be going on here?
+PIK interest? - is the option to pay interest on debt instruments and preferred securities in kind, instead of in cash. It has been designed for borrowers who wish to avoid making cash outlays during the growth phase of their business.
+
+PIK interest is usually presented as additional securities, issuance of additional debt instruments or increases in the principal of existing debt? Generally benefiting the borrower, one setback is that a PIK instrument usually has a higher interest rate than its non-PIK equivalent (such as cash and other bank notes) in order to make it an attractive option for the collector.
+**************************************************************************************
+
+4) A potential earn-out for a maximum of $178 million based on the performance of Black Dragon Capital's investment meeting certain performance thresholds
+A ~18% increase that will benefit Belden if the earn-out is triggered
+An earnout is a contractual provision stating that the seller of a business is to obtain additional compensation in the future if the business achieves certain financial goals, which are usually stated as a percentage of gross sales or earnings.
+**************************************************************************************
+This one also appears to be interesting. Any background?
+If an entrepreneur seeking to sell a business is asking for a price more than a buyer is willing to pay, an earnout provision can be utilized. In a simplified example, there could be a purchase price of $1 million plus 5% of gross sales over the next three years.
+
+Earn Out Agreements have become increasingly common in recent years, and they are most popular in times of economic and political uncertainty. And while any type of business sale may consider an Earn Out Agreement, they tend to be most popular among private equity investors who may not have the expertise to keep the business running on its own after the purchase. In such cases an Earn Out Agreement may be used to entice the former business owner to remain involved in the business following the sale. Regardless of the type of business, Earn Out Agreements should be considered only when the company will be operated and managed the same in future years as it is at the time of sale. This is the better way to project future performance. But if future plans involve dramatic shifts in operation, an Earn Out Agreement may not make sense, especially for the seller.
+**************************************************************************************
+
+PLUS
+5) Belden has agreed to make a $3 million equity investment in Grass Valley, with Belden able to exercise a put-back option after 120 days.
+**************************************************************************************
+Again: any thoughts?
+From Devoncroft Partners: "It's unclear why this fifth provision; Belden's $3 million equity investment in Grass Valley was added to the deal terms, it's a new one for us. Nevertheless, although it seems a bit unusual, the 120 day put-back option makes it a moot point in the grand scheme of things, so we've decided to exclude it from this analysis."
+**************************************************************************************
+
+<h2>For the GVs of the world &#45; Q to Q Does not Work</h2>
+At this point it appears that companies like the Grass Valley require a different kind of ownership and financial analysis. Quarter by quarter analysis for many industries is problematic because many companies in their budgetary cycles have a use it or lose it mentality. If a department is budgeted to spend a million on capital expenditures for a given year, if they do not spend it all they lose it. That alone starts some lunacy as often they, as their end of fiscal year nears, will spend remaining money in haste on what they really do not need. It would be helpful if cap ex money could be carried over into a new year, but most companies do not allow that. So since many companies have fiscal years that end on the calendar new year, often capital spending is higher in the fourth quarter than others. Thus as often the case a new first quarter will hardly ever beat the previous fourth quarter. In the case of Grass Valley under Belden the fiscal year started in April. So usually its fourth quarter never beat its third.
+
+Even the year by year analysis is tough for many companies. The television industry is a good example. As we have mentioned Grass Valley's customer base often buys equipment based on events. The Olympics, or often when the NFL or other sports leagues sign new television contracts, the networks want the latest and greatest equipment to air their marquee programming. There is a seasonality to the business, but the cycles sure as hell do not follow a calendar rhythm. The best ownership for a company like Grass Valley is by a growth investor, and not one looking for dividends. The problem with growth investors is that eventually they will want or need to cash out. This leads to little long-term continuity in ownership. Every so often the company gets to start over, or at least make a course correction under new management. 
+*********************True or not?****************************************
+
+<h3>Making your numbers 101</h3>
+Let's look at what a company like Grass Valley would have to maneuverer through to make their quarterly numbers. MBAs and economist describe two markets, the real market, and the expectations market. The first is just that, factories, products, revenue, expenses, and profit, what executives have some control over.
+
+The expectations market is the stock market. Investors see how a company is doing today, and form expectations on how the company will do in the future. Collectively those investors form expectations as to how the company is likely to perform in the future.
+
+It would appear that CEOs would focus on what they have direct control of, that is the real market. But their incentives are often towards the other market. Improving the company's real market performance takes time, almost always longer than three month intervals. It is easier to work at improving the stock market's expectations of the company. Throw in the fact that today the CEO can have bonuses tied to real market performance, which often pale compared to stock-based incentives. Improving real market performance is the hardest and slowest way to increase expectations from the existing level.
+
+As Steve Denning wrote in Forbes magazine, "In fact, a CEO has little choice but to pay careful attention to the expectations market, because if the stock price falls markedly, the application of accounting rules (regulation FASB 142) classifies it as a "goodwill impairment." Auditors may then force the write-down of real assets based on the company's share price in the expectations market. As a result, executives must concern themselves with managing expectations if they want to avoid write downs of their capital.
+
+Peter Drucker in the 70s said that the only valid purpose of a firm is to create a customer. More "enlightened" economists argued that it was to maximize shareholder value. The result is that CEOs of large companies saw their compensation through stock explode over what they received from salary and bonus. The hope was that executives would focus on improving the real performance of their companies and thus increasing shareholder value over time. The opposite occurred. Since 1976, executive compensation has exploded while corporate performance has declined.
+
+In the resulting leaning towards serving the dividend investor, Deutsche Bank once surveyed large companies on how they would prioritize cash flow in a business downturn. This was done after CEO compensation via stock became dominant, and found that after cutting deferrable investment, firms would borrow money to pay the dividend, as long as they did not lose their credit rating. Next, they would sell assets at fair market value and cut strategic investment. Only if all these actions were insufficient, would they resort to a dividend cut. It came to be that a lot of long term damage could be done in an effort to serve short term shareholder value. They cut strategic investment to maintain the dividend. Thus selling the future short.
+
+There is something called Goodhart's Law that says that when a measure becomes a target, it ceases to be a good measure, because people can manipulate it to meet the target. Quarterly return became the target. In this world, the best managers are those who meet expectations.
+
+Wall Street loves steady earnings results, and that's what many managers strive for. But companies that consistently meet or exceed Wall Street's consensus earnings estimates are often gaming their company's earnings to do so. It demonstrates the short-term approach they're taking with their business.
+
+From Roger Martin, Dean of the Rotman School of Management at the University of Toronto in his book "Fixing the Game," during the heart of the Jack Welch era, GE met or beat analysts' forecasts in forty-six of forty-eight quarters between December 31, 1989, and September 30, 2001 - a 96 percent hit rate. Even more impressively, in forty-one of those forty-six quarters, GE hit the analyst forecast to the exact penny, a 89 percent perfection. And in the remaining seven imperfect quarters, the tolerance was startlingly narrow: four times GE beat the projection by 2 cents, once it beat it by 1 cent, once it missed by 1 cent, and once by 2 cents." The chance that could happen if earnings were not being "managed?" Martin said it was infinitesimal.
+
+When Jack Welch retired from GE, the company had gone from a market value of $14 billion to $484 billion, making it, according to the stock market, the most valuable and largest company in the world. In 1999 he was named "Manager of the Century" by Fortune magazine. Since Welch retired in 2001, GE has lost around 60 percent of the market capitalization that Welch "created."
+
+How the accounting is done can change everything. "Mark-to-market" accounting is a way of valuing assets based on how much they could sell for under current market conditions. Mark to market differs from historical cost accounting, which looks back to the asset's original purchase price, and how much it has been depreciated to determine its valuation. Its "marks" assets on the balance sheet to reflect their market sale prices. This gets dicey with assets that are not that liquid. This method divides assets into three levels. Level one is fairly straight forward, assets with fair market values that can be easily identified. Level two is where things get qualitative. These values are derived from similar assets. Level three; how bad do you want to make your numbers?
+
+If most of a company's assets fit the level three in the "mark to market" accounting, a company today can use "mark to model" for asset valuations. Use of this approach arises due to illiquid assets that don't have a large enough market for mark-to-market pricing. The assets tend to be riskier as their values are based on guesswork. The securitized mortgages that brought on the financial crisis of 2008 were valued using mark-to-model valuations. After the financial crisis, all companies holding assets valued via mark-to-model are required to disclose them.
+
+In the worship of quarterly returns consider these brazen words from former Qwest Communications CEO Joe Nacchio in January 2001, months before his company began a precipitous decline that took its stock from the mid-$30s to a low of less than $2 by August 2002:
+
+"The most important thing we do is meet our numbers. It's more important than any individual product; it's more important than any individual philosophy; it's more important than any individual cultural change we're making. We stop everything else when we don't make the numbers."
+
+Qwest may have made its numbers, but it did so via methods that eventually cost shareholders billions. Qwest ultimately restated its earnings, increasing its losses in 2000 and 2001 by more than $2 billion. Nacchio resigned in June 2002; he was later convicted of insider trading and hauled off to jail.
+
+In the case of GE, the demands to deliver a smooth progression of improving results to Wall Street, produces intense pressure on managers to produce trading figures to consistently match Wall Street expectations, or face loss of bonuses or even their jobs. One way to do this is by stretching revenue recognition.
+
+Earnings are at the very bottom of the income statement, hence the term "bottom line." They're the end result after all expenses - raw material costs, salaries, marketing expenses, research and development, interest, and taxes, are taken out of revenue. Unfortunately, that also makes earnings the figure most susceptible to manipulation.
+
+Shift some expenses around, draw down some reserves, play with your tax rate a bit, and the quarterly earnings per share result suddenly goes from a miss to a hit. Earnings numbers can be skewed by corporate buybacks, which reduces the share count and, ultimately, improves earnings per share.
+
+Some companies will include one-time gains from asset sales or investments in the operating section of the income statement, as a way to boost operating profits, even though these activities aren't normally part of the ongoing operations of the business. Large write-offs of bad inventory or uncollectible debt should also be included in operating expenses. Often, they are not.
+
+Companies can boost short-term earnings by capitalizing expenses that should normally be included on the income statement, treating normal operating expenses as an asset, shifting them to the balance sheet to be amortized, or depreciated over years, instead of in the current quarter. WorldCom, the notoriously bankrupt telecommunications giant, reported billions in inappropriate profit by capitalizing a significant portion the fees WorldCom paid to other telecom companies to access their networks, instead of it being a normal part of its everyday operating expense.
+
+These were the same pressures that brought down Enron, which, while posting steadily growing trading figures and profits, progressively ran out of cash, and a whistle-blower brought down the house of cards.
+
+The company could be sitting on major liabilities in various parts of its business which it has not acknowledged. In 2018 one financial analysis claimed that GE was sitting on $38 billion in potential liabilities. That represented 51% of GE's stock market capitalization at the time.
+
+GE in 2017 had Jeffery Immelt and his lieutenants receiving 20% raises if cost cutting targets were met, and 20% cuts in pay if they were not. GE has a history of transgressions in the past twenty five years in terms of lack of transparency and accountability to shareholders. Eventually playing games with revenue and expenses came back to haunt a company. Immelt retired in 2018 and was followed by John Flannery, who lasted a little over a year. Flannery was replaced by Larry Culp, Jr. While many are encouraged by his early strides in changing how GE does business, his base compensation is nothing to sneeze at, $2.5 million, his payout for a large stock price rise, shareholder value again, could be up to 100 times that.
+
+Corporate Culture – How McDonnell-Douglas almost killed Boeing
+https://www.lomaricatv.com/background.html#boeing
+
+So how can companies like Grass Valley keep investors happy when it is in a business that does not correspond the quarters? It must be efficient. How has that been traditionally determined? Start with EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization). It is an earnings measure that focuses on the essentials of a business: its operating profitability and cash flows. While a company's interest, taxes, depreciation, and amortization are far from irrelevant, EBITDA strips all of those numbers out in order to focus on the essentials: operating profitability and cash flow.
+EBITDA margin = (earnings before interest and tax + depreciation + amortization) / total revenue
+
+EBITDA makes it easy to compare the relative profitability of two or more companies of different sizes in the same industry. The numbers otherwise could be skewed by short-term issues or disguised by accounting maneuvers as we just saw. EBITDA can be used along with another measure to see how efficient a company is. A classic rule of thumb to track efficiency is what is known as the Rule of 40.
+
+The rule adds together a business's percentage of revenue growth over the financial period plus its EBITDA margin. If the answer is greater than 40, the business is efficient. If not; it's not.
+
+Forbes found that companies that come in above 40 trade at an average revenue multiple of 10.9X, while companies whose metric sits below 40 trade at just 4.1X, on average.
+
+Forbes also found another interesting corollary that organic, product-led growth versus paid or human-led growth, the first had better results. "The more you can organically grow traffic and revenue due to a great product experience â€” and the less you rely on paid acquisition channels (e.g., buying traffic from Facebook or Google) or monetizing your site through an expensive sales force â€” the better." While this was in relationship to websites it also is similar to the real market, and the expectations market.
+
+This rule would seem to indicate that for the Grass Valleys of the world to survive it must get and keep its EBITDA margin high. That means that if the potential revenue trough happens, it must quickly re-arrange and manage its costs of doing business. Otherwise, its value will suffer, and it will find itself on the block again, in a greatly diminished state.
+***********************************************************************
+Makes me wonder; is there any long path forward for companies like GV other than constant growth, little dividends, and then being flipped every so often for the investors to realize any gains?
+***********************************************************************
+
+<h3>Black Dragon Capitol</h3>
+As mentioned before, Belden sold Grass Valley to Black Dragon Capital. John Stroup, President, CEO, and Chairman of Belden said, "We believe that Black Dragon's deep broadcast industry experience will enable Grass Valley to effectively execute its strategic plan, and we are pleased to announce this definitive agreement. We look forward to supporting the Black Dragon and Grass Valley teams during the transition, and we are extremely excited about the opportunities for Belden going forward as we continue our transformation."
+***********************Any thoughts on the double speak?***************************
+
+At the time Grass Valley President, Tim Shoulders, and his senior team continued to lead the company, while Hernandez became Executive Chairman and worked on what the company says is "the accelerated expansion to a cloud-based subscription model." Grass Valley had been developing that model already, but it just was not doing it fast enough for its Belden quarter-to-quarter financial model. As already discussed companies like Grass Valley do not do well in that kind of financial reporting system. And now that the basic workflow of the industry was moving to a new tectonic shift, away from the heavy reliance on hardware, and decent revenue returns, to software and cloud based, with a per-use or subscription model, the industry was looking at a trough of earnings.
+
+Early adopters of the new ways of doing television production would move over quickly. This would be especially appealing to small and startup operations. That would start to seed the new marketplace, but many of the entrenched, and established players, the ones that had spent lavishly on the old way, would be slower to abandon what was, so quickly. Not that they would continue to buy hardware to maintain the old ways, they would just keep what they had and move over as they were forced to.
+
+Hernandez had left Avid under something of a cloud at the end of February 2018, sacked abruptly for "violations of company policies related to workplace conduct." He was replaced by Jeff Rosica as the new Chief Executive Officer. Avid was a very early pioneer in computer platform based systems. Not only selling hardware but making most of their money off of software subscription and support software. As such they were no stranger to the SAAS approach. So Hernandez certainly had the experience in moving a big industry player to the new software based services and pay-as-you-go business models.
+
+Hernandez took over as CEO in 2013. Hernandez's firing came after years of financial and management troubles at Avid, which was delisted from the Nasdaq Exchange for nearly a year in 2014 due to poor accounting practices. Avid's CFO stepped down amid a major company restructuring in 2016. Avid's share price had dropped to around $5 by 2018, down from over $17 in 2015.
+*********************************************************************************
+Need help in parsing this:
+How does Hernandez and Black Dragon plan to steer Grass Valley into the future. This is what the company's website states: "Black Dragon invests in digital-only technology, sports, and media, banking, and e-commerce; in essence, anywhere where the product or service is being digitized or the consumption of the service is being digitized, and this tends to collapse the workflow and the technology that was once held now is overwhelmed by this new intimacy between the seller and buyer. We try to find market winners in that transition, invest and help them grow, that's what Black Dragon invests in."
+
+On the new realities of Grass Valley, he stressed: "Grass Valley is a fantastic brand, has a worldwide distribution, is recognized as the most reliable and trustworthy innovator in the industry. What I like is the widest range of products, I would say the widest range of products in the industry. It is number one or two in each and every one of the categories in which it participates. It has a lot of the best and brightest people in the world, I am very impressed by the people there and their leadership team. I must say that in our interviews with clients and friends, it is evident that he has an outstanding reputation."
+********************************************************************************
+
+<h4>Grass Valley Technology Alliance (GVTA)</h4>
+********************************************************************************
+Need to re-write this marketing drivel!
+Against this backdrop, the GVTA certification program was launched partly to reassure existing customers that the company was stable and has a convincing strategy for advancing into the IP media age with a comprehensive range of options. The GVTA, launched in April 2019, gives broadcasters and media companies' access to a wide range of systems and solutions that result from integrations with Grass Valley workflow components. By the end of 2020 the alliance had broadened to 21 members.
+
+Grass Valley claimed that collaboration between various vendors was at the forefront to strengthen the integration of not only GV offerings, but to be able to interface other vendors with different competencies with systems and solutions that are interoperable with Grass Valley platforms and workflow components.
+
+Some services GVTA members provide:
+advanced monitoring systems
+audio broadcast mixing equipment
+KVM technology
+test and measurement instruments (Leader)
+live streaming and remote production
+intelligent storage and workflow management solutions
+robotic camera systems
+professional quality graphics to be added onto live streams
+open standards content storage and management software,
+real-time scoreboard data feeds from sports venues
+collection, delivery and management of high quality, live video and associated data
+3D broadcast graphics solutions
+**********************************************************************************
+
+
